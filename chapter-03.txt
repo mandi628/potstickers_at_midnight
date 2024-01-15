@@ -6,11 +6,63 @@ CHAPTER THREE
 
 /* Charlie is the talk of the town. Even after all this time, people express their condolences, their good wishes, and their curiosity about her life. Charlie runs into Aunt Betsy and they exchange a hug and good conversation. Betsy is like a second mother to her, having raised Lowell since childhood. She invites Charlie to come down to Jake's to see "the other half" of the town population. */
 
+After parking her car, Charlie started walking around the downtown square of her hometown. Not much had changed since last Christmas, and she always enjoyed the huge Christmas tree they put up in front of the courthouse each year. At night, the Christmas lights on the square made it as bright as day. The Veteran's Memorial statue always had hats and scarves for people in need, too. It really was a nice place to live.
+
+Mr. Parker, who owned the hardware store, waved to her as she walked by. She saw Mrs. Anderson inside, buying Christmas lights. Mrs. Anderson was staring her down and her tongue was wagging, as usual.
+
+A couple of new restaurants had opened up on Main Street, and they looked promising. Charlie also noticed signs for rooftop seating. Of course, there wouldn't be a huge demand for that in this weather, but it seemed like things were improving downtown. Lots of reconstruction and improvements on some of the buildings that had been sitting empty for far too long.
+
+The ice cream shop had a new general store next door - it had the same name as the ice cream shop. Charlie stepped into the general store to see what they were offering. She found honey from some local vendors, lots of brochures advertising local activities and events, South Carolina themed t-shirts, and the standard drinks you would find in any convenience store. The creamery two towns over had products in a refrigerator case and a local meat processing company, too. It was exciting to see a partnership between these local businesses.
+
+She left the general store and headed on down the street. She saw Lowell's Aunt Betsy setting up a sign in front of the flower shop.
+
+"Hey, Aunt Betsy," she called.
+
+Betsy turned and called back, "Charlie! Come on in!"
+
+Charlie followed her into the flower shop and was engulfed in floral scents. She couldn't pick out any particular scent, but it was heavenly. The mixture of scents was enough to take notice, but it wasn't overwhelming. Betsy had done a good job of keeping it from being nauseating.
+
+"How're you doin', kiddo? Glad you're back, safe and sound," Betsy said as she wrapped her arms around Charlie. Betsy smelled like a greenhouse - dirt, fertilizer, and water. Who knew water had a smell.
+
+"I'm good. Things are going well with my business, and I have customers all over the state. Sometimes I even have a waiting list when I get back into a town." Betsy was busy arranging bunches of flowers in their canisters on the shelves.
+
+"Hey, that's great. You have a following! Do you do any social media marketing?"
+
+"Yeah. I post on Facebook and let people know when I'm heading to a specific shop. Sometimes the shops even contact me from Facebook, and ask me to come. I get a lot of leads that way. I went to three new shops this year."
+
+"That's awesome, hon. I'm so glad you've got something that works for you."
+
+"Thanks, uh, so are you working here now? I thought the bar was doing really well."
+
+"Oh, it is, hon. It is. After dad died, I decided I didn't just want to be a bar owner. That's really more Lowell's calling. So I bought this place when Betty Lynn Shaeffer retired in March. It's been so great to have something new to do, after being raised in that bar. I just love it. And things seem to be going much better, now that quarantine is over."
+
+"Yeah, quarantine was rough everywhere."
+
+"Have you seen Lowell yet?"
+
+Charlie clear her throat. "Uh, no. Thought I'd head over there after I browsed down here a little bit. In some ways nothing changes around here. And in other ways, everything changes, you know?"
+
+Betsy laughed. "Yeah, I know exactly what you mean. It's seems like we're standing still, but the world keeps on moving whether we want it to or not." Charlie perused the greeting cards while Betsy kept working.
+
+"Listen, Charlie, about Lowell," Betsy said cautiously. Charlie picked her head up to look at her. "Honey, he hurt for a long time, and he's in a good place now. Be sweet to him, huh?"
+
+Charlie took a minute to reply. She didn't really know what to say, and she started to worry if Lowell had said something to Betsy. But Betsy continued without waiting for a reponse.
+
+"What I mean is, he has had a soft spot in his heart for you since you were kids. When Chase died, he spent of long time waiting for you so you could mend your hearts together. We're all adults here, and he's not angry anymore, but he needs to have peace. He deserves to love and be loved. It doesn't have to be you, and we're all okay if it's not you. But you have to decide and tell him so he can move on. You know what I mean?"
+
+"Uh, yeah," Charlie sputtered. "Move on. I get it." She absolutely did not get it. She and Lowell had never been a thing. Sure, they hooked up for comfort, and they had been close as kids. But she never thought he wouldn't move on without her permission. "I'll give it some thought, Aunt Betsy, and make sure to talk to him before I head out again."
+
+"Thanks, doll. See you later?"
+
+"Yeah," Charlie said hesitantly as she started moving towards the door. The conversation had surprised her because Aunt Betsy didn't usually meddle. She and Lowell had never really talked about their relationship, or how it had changed since Chase died.
+
+She crossed Main Street and headed back towards her car, in the general direction of Jake's, deep in thought. She hadn't really even thought about how any of her realtionships had changed since Chase's death. She had just avoided them all. Maybe it really was time to stick around a little longer and sort all that out.
+
 *****
 
 ~~ The apology ~~
 
-Lowell catches up with Charlie and apologizes for how things went the night before.
+/* Lowell catches up with Charlie and apologizes for how things went the night before. */
 
 
 "I'm sorry things went the way they did this morning," Lowell said as he matched stride with Charlie. He had seen her walking through the Town Square and decided he needed to clear the air.
@@ -21,26 +73,25 @@ She whipped her head around, eyes flashing and confusion in her brows. "No big d
 
 "I said, it's no big deal."
 
-"Charlie –"
+"Charlie --"
 
-"Lowell, " she said, turning on her heel to face him. "You have been everything to me since Chase died. And you stayed when I left. But your life is here. I'm sorry you regret sleeping together this morning. You said no last night, and I should have respected it. I'm sorry. You've moved on, it seems, and that's ok. I get it. It's no big deal." She poked him with her finger as she said each of the last three words.
+"Lowell, " she said, turning on her heel to face him. "You have been everything to me since Chase died. And you stayed when I left. But your life is here. I'm sorry you regret sleeping together this morning. You said no last night, and I should have respected it. I'm sorry. You need to move on, and that's ok. I get it. It's no big deal." She poked him with her finger as she said each of the last three words.
 
-Lowell had stopped in his tracks when she turned on him. Now, she whirled around and continued walking. Regret sleeping with her? Where did she get that idea. He was trying to apologize for it being so quick, and not at all romantic. Not how he wanted it to happen, anyway. He had wanted her to want him, more than physically. How could he get her to see that he would wait a hundred years, or more, for her?
+Lowell had stopped in his tracks when she turned on him. Now, she whirled around and continued walking. Regret sleeping with her? Where did she get that idea. He was trying to apologize for it being so quick, and not at all romantic. Not how he wanted it to happen, anyway. He wanted it to be more than an itche they had to scratch every year. How could he get her to see that he would wait a hundred years, or more, for her?
+
 She finally stopped walking when a dull roar echoed through the streets. As it approached, a wide grin spread over her face.
 
-The Softtail Harley rolled into view and Lowell's heart sank. The bald, tattooed biker astride the bike looked like he should be playing pro football. He wore a flannel shirt, like Lowell, but the sleeves were torn off at the shoulders, and his thermal shirt hugged his biceps. His jeans looked like they were painted on his thighs. As the biker pulled his bike into a parking pot, Lowell noticed Charlie running to greet him. Running. It looked like he had missed his chance afterall. But, then why did she make love to him this morning?
+The Softtail Harley rolled into view and Lowell's heart sank. The bald, tattooed biker astride the bike looked like he should be playing pro football. He wore a flannel shirt, like Lowell, but the sleeves were torn off at the shoulders, and his thermal shirt hugged his biceps. His jeans looked like they were painted on his thighs, and his boots seemed heavy enough to kick down a door. As the biker pulled his bike into a parking pot, Lowell noticed Charlie running to greet him. Running.
 
-Just as curious about the newcomer as everyone else in town, Lowell's feet started moving toward them. He lowered his gaze to the ground as he walked, but not before he saw Charlie jump into the guy's arms. He swung her around in a circle, and she laughed. No – giggled!
+Lowell could see the shop windows filling with familiar faces. Just as curious about the newcomer as everyone else in town, his feet started moving toward them. He lowered his gaze to the ground as he walked, but not before he saw Charlie jump into the guy's arms. He swung her around in a circle, and she laughed. No -- giggled!
 
-"Roxie! What are you doing here?" Charlie asked him between laughs.
+"Roxie! What are you doing here?" Charlie asked him between laughs. Charlie had mentioned Roxie before, but Lowell though it was a girl.
 
-Charlie had mentioned Roxie before, but Lowell though it was a girl.
-"Just passing through, Chuckie. Just stopped to buy you a coffee. You got decent coffee around here?"
+"Just passing through, Chuckie. Stopped to buy you a coffee. You got decent coffee around here?"
 
-This was gonna get messy, and Lowell didn't want a mess. He never imagined that Charlie was celibate when she was off in her world. Heck, he wasn't either. But her worlds had never crossed over before. She always kept them separate. Yet his feet kept bringing him closer to the pair, like a magnet. Damn, she was beautiful when she smiled. And it was so good to hear her laugh.
+This was gonna get messy, and Lowell didn't want a mess. He never imagined that Charlie was celibate when she was off in her world. Heck, he wasn't either. But their worlds had never crossed over before. She always kept them separate. Yet his feet kept bringing him closer to the pair, like a magnet. Damn, she was beautiful when she smiled. And it was so good to hear her laugh.
 
-Just then, she spotted him coming closer and she climbed down from the bear's arms. Lowell felt like a giraffe next to him. The scene in front of him cut like a knife.
-Charlie grabbed Roxie's hand and lead him tot he sidewalk where Lowell had stopped.
+Just then, she spotted him coming closer and she climbed down from the bear's arms. Lowell felt like a giraffe next to him, and the scene in front of him cut like a knife. Charlie grabbed Roxie's hand and lead him tot he sidewalk where Lowell had stopped.
 
 "Lowell, this is Roxie. Roxie, Lowell."
 
@@ -50,7 +101,7 @@ Charlie grabbed Roxie's hand and lead him tot he sidewalk where Lowell had stopp
 
 Charlie wrapped herself in Roxie's arm and asked, "Who's got the best coffee these days, Lowell?"
 
-"Uh, well, there's Capricorn Coffee over on Sprice, but all the yuppies go there. We got lunch startin' up over at Jake's. I can setup a fresh pot, if you want." Why coudln't he send her away? Inviting the bear to the den was not a good idea.
+"Uh, well, there's Capricorn Coffee over on Spruce, but all the yuppies go there. We got lunch startin' up over at Jake's. I can setup a fresh pot, if you want." Why coudln't he send her away? Inviting the bear to the den was not a good idea.
 
 "Roxie, you've got to try their Mushu Pork. Nothing else like it in the whole state," Charlie gushed.
 
@@ -77,17 +128,19 @@ Charlie turned in the direction of Jake's and started walking. Roxie followed.
 
 "Oh, Rox. I don't know what I was thinking. When I called Lucy, I hadn't seen Lowell yet. I just had this feeling when I came into town that something was changing. He came over last night, like he always does when I get home. But it was different somehow. And we didn't hook up, but then we did. I thought that would be a good thing, but it just made me feel so uneasy. I don't know how to get him to see that I'm not worth waiting for."
 
-"I'm sure he's wondering how to get you to see that you are worth it."
+"I'm sure he's wondering how to get you to see that you /are/ worth it."
 
 "What?"
 
 "Chuckie, you know that boy is in love with you, right?"
 
 "I know, Rox. I know. I don't know a time when I didn't know that. But I can't let him in. I just can't. Losing him would kill me." Tears formed in her eyes as she thought about life without Lowell. She knew it was silly to take it for granted that he would always be here, but she couldn't pin him down, either, because she couldn't be here all the time. She couldn't face all the places and memories.
+
 "Hon, you can't lose him if you haven't found him."
 
 They were almost to the bar now, and Charlie had to get their stories straight.
-"Listen, just stay for the day and pretend to be my boyfriend. You can leave this eveing, after dinner."
+
+"Listen, just stay for the day and pretend to be my boyfriend. You can leave this evening, after dinner."
 
 "What about Lucy? Almost all our good stories include her."
 
@@ -108,31 +161,31 @@ Lowell was wiping the bar down when he saw them come in. He had started a fresh 
 
 "I know I've only been back for a couple of weeks," Jess said into his ear, "but if I didn't know better, I'd say you were jealous."
 
-He snapped his head around. "Jealous? Me? Of what?" His voice was a strange sound he'd never heard before.
+He snapped his head around. "Jealous? Me? Of what?" His voice was a strange high-pitched sound he'd never heard before.
 
 "Wow. I was only joking, but I'm right, aren't I? Your eyes are shooting daggers, and your eyebrows are almost a uni-brow."
 
-"No, not at all," he squeezed out, clearing his throat.
+"No, not at all," he squeezed out, clearing his throat and rubbing his forehead.
 
-Jess settled on a stool at the end of the bar. She had graduated with Lowell and Charlie, then gone to culinary school and the city life. She had just come back to town after a rough divorce, and she and Lowell became fast friends.
+Jess settled on a stool at the end of the bar. She had graduated with Lowell and Charlie, then gone to culinary school and the city life. Coming back to town after a rough divorce, she and Lowell had become fast friends.
 
 For her, Lowell was someone who knew her before her life truned inside out. For him, Jess was someone who knew him without Charlie. Their different lives had given them each a chance to be unburdened in thier friendship.
 
 Her gaze wandered to Charlie and Roxie in the booth. Roxie was telling her some sort of story, and she hung on every word, laughing as he waved his hands around in some sort of demonstration.
 
-Lowell's gaze followed Jess' and his heart ached. He wanted to have that same effect on Charlie. But their connection seemed stuck in the past. They only seened to share sadness.
+Lowell's gaze followed Jess' and his heart ached. He wanted to have that same effect on Charlie. But their connection seemed stuck in the past. They only shared sadness when they were together.
 
 "Lowell, you've got to tell her how you feel."
 
 The bar was buzzing with customers now, with the lunch rush in full swing. Lowell stepped closer to Jess so he could hear her. "What did you say?"
 
-"I said, you've got to tell her –"
+"I said, you've got to tell her --"
 
 Lowell stepped closer and leaned in. "I still can't hear you."
 
 Jess stretched up in the stool to talk into his ear. "You've got to tell her how you feel."
 
-Their faces were next to each other, but he turned to her ear and replied. "Jess, first, you don't know what you're talking about. And, second, it's none of your buiness."
+Their faces were next to each other, but he turned to her ear and replied. "Jess, first, you don't know what you're talking about. And, second, it's none of your business."
 
 Still cheek-to-cheek, she teased him. "Don't be such a guy."
 
@@ -140,13 +193,13 @@ Still cheek-to-cheek, she teased him. "Don't be such a guy."
 
 Jess gave him her order as Kenny hollered from the back, "Boss, I need more egg rolls from the freezer, but I don't have enough hands! Are you gonna get more hands?"
 
-Lowell rolled his eyes as he backed away from Jess. "Such a drama queen, that kid," chuckling. "I'll be back with your order soon."
+Lowell rolled his eyes as he backed away from Jess. "Such a drama queen, that kid," chuckling and raising his voice to be heard. "I'll be back with your order soon."
 
 Jess hopped down from the bar stool and followed Lowell to the kitchen. "You are being a complete dunderhead," she said.
 
-Lowell looked back at her. "What are you doing back here?"
+Lowell looked back at her. "What are you doing back here? And 'dunderhead'? Who says that?"
 
-"You need to tell Charlie how you feel about her. Why would she stay if she doesn't think she has anything to stay for?"
+Rolling her eyes, Jess continueed to push. "You need to tell Charlie how you feel about her. Why would she stay if she doesn't think she has anything to stay for?"
 
 Lowell looked at Kenny, and he blinked, his eyes big and round, like a cartoon character.
 
@@ -160,14 +213,17 @@ Lowell took a step toward Jess, forgetting the knife in his hand as he pointed i
 
 Jess' eyes had welled up with tears while he spoke. "That is the most beutiful thing I've ever heard. Now go tell her."
 
-"No," Lowell said, moving back tot he counter to take his frustration out on the food.
+"No," Lowell said, moving back to the counter to take his frustration out on the food.
 
 "Lowell, did you ever think that maybe she doesn't have to stay? Maybe you can go with her. You both have these distant memories, but you can make new memories together."
 
 "Jess, you're amazing, but I'm done talking about this," he said, looking up at her from his cutting board. "Now get outta my kitchen."
 
-Jess shook her head and laughed as she turned around and headed back to the bar.
-"What are you looking at, kid?" Lowell growled at Kenny, who stood completely still, with his cartoon eyes still wide open.
+Jess shook her head and laughed as she turned around and headed back to the bar. But not before needling him one last time. "Lowell, give her a reason to stay."
+
+"Out!" he shouted, dipping his head toward the cutting board again. He suddenly realized Kenny hadn't moved since Jess entered the kitchen.
+
+"What are you looking at, kid?" Lowell growled at Kenny, his cartoon eyes still wide open.
 
 "I'm looking at the dumbest guy in the world," he said as he resumed his work, shaking his head.
 
@@ -179,27 +235,29 @@ Jess shook her head and laughed as she turned around and headed back to the bar.
 
 
 The food was amazing, as always. The coffee was passable and fresh, as promised. Rachel seemed to provide a bottomless pot and kept refilling their coffee and water. Charlie wasn't surprised when the potstickers arrived. Lowell knew her too well, and the Mushu Pork they ordered was the best in the state, as she claimed.
+
 As they ate, Charlie couldn't help but notice the intimate conversation Lowell was having with a girl at the bar. She looked a little familiar, but Charlie couldn't place her. She was glad he seemed to have other relationships, but then she got a little bothered that he had come over last night anyway, even though he had something going on with this other girl. Hooking up was one thing. But the things he said made her think there wasn't anyone else.
 
 She tried not to focus on it while they ate. Roxie asked about the people in the bar as they paraded through, and Charlie tried to fill him in, as best she could. She knew she should recognize more people than she did - she had grown up with them. But she couldn't help feeling disconnected from the place she called home. Junie had stopped by and said hello, as had half the other people in town that she had gone to school with.
 
-Roxie had headed to the bathroom, and Charlie wanted to take a minute to thank Lowell for the great lunch, but she didn't see him anywhere.
+Roxie went to the bathroom, and Charlie wanted to take a minute to thank Lowell for the great lunch, but she didn't see him anywhere.
 
 "Kenny, where's Lowell?" she asked through the service window.
 
-"What am I, his babysitter? He's probably in the back getting stuff. All my bins are empty up here."
+"What am I, his babysitter?" a little sharper than he intended. He put up his hand in peace before continuing. "Sorry. He's probably in the back getting stuff. All my bins are empty up here."
 
 No stranger to the bar, Charlie ducked behind the counter and headed for the store room. She was glad her brother had been able to get a job here, and hoped it would be a good connection for him. Something to help him move forward, and not stuck in the mud.
 
-As she rounded the corner, she heard giggling and almost turned back. But it was too late. Her eyes locked with Lowell as he was being groped by none other than Junie Watling - the mewling cat who'd been after Lowell since high school. He had his back to the wall, and Junie was trying to climb him like a tree, making these little squeaking sounds as her hands ran over his chest.
+As she rounded the corner, she heard giggling and almost turned back. But it was too late. Her eyes locked with Lowell's as he was being groped by none other than Junie Watling - the mewling cat who'd been after Lowell since high school. He was pinned up to the wall, and Junie was trying to climb him like a tree, making these little squeaking sounds as her hands ran over his chest.
 
-Charlie turned on her heels and dashed out of there, steam rising in her ears. She nearly ran into Roxie outside the men's room.
+Charlie made a grunting-gasping sound as she turned on her heels and dashed out of there, steam rising in her ears. She nearly ran into Roxie outside the men's room.
 
 "Come on, we're done here."
 
 "Chuckie, you ok?"
 
 Lowell came racing out of the store room, calling her name, Junie right behind him.
+
 "Lowell, baby. Come back. When are we gonna get together again?"
 
 Lowell turned and faced her. "Junie, how many times do I have to tell you that I'm not into you like that. It's been eight years, and you still don't listen. Please, find someone else."
