@@ -1,5 +1,15 @@
 CHAPTER FOUR
 
+~~ A confrontation ~~
+
+/* Lowell confronts Junie angrily, Jess calms her down */
+
+*****
+
+~~ A different confrontation ~~
+
+/* Charlie and Roxie have it out at the cemetery and Charlie sorts through her feelings */
+
 The wind cooled Charlie's face. Riding was so freeing, and she could always think clearly on the back of a motorcycle. So what if Lowell was with someone else. So what if he had a girlfriend. It explained why he stopped her last night, but it didn't explain this morning. What they had was casual, but she would be damned if she was going to be the other woman.
 
 Well, that doesn't make sense either. If what they have is casual, then there will be others. She will be the other woman. It's not up to her to decide that he has something special with someone else. Right? Gah - this was all so confusing.
@@ -17,6 +27,10 @@ Roxie turned around in his seat. "Hon, I'd love to, but you keep muttering to yo
 She climbed off the bike so Roxie could get off without kicking her. Then, she got back on, and he followed. She started up the bike and turned around to head back towards town. The cemetery was on the edge of town, so she wouldn't risk running into Lowell, or anyone else she knew.
 
 *****
+
+~~ At the cememtery ~~
+
+/* Lowell catches up with them at the cemetery and he and Charlie talk */
 
 Lowell saw the motorcycle at the cemetery entrance and felt a jolt of relief. He was afraid she had gone. This would be the first time since Chase died that she wouldn't be here for their birthday. At least he'd get a chance to try to talk to her, to explain everything. He didn't even really know what he would be explaining. All he knew was that she was pissed. Hopefully he could get her to talk, and she wouldn't shut down again.
 
@@ -118,3 +132,12 @@ Lowell thought for a moment. "Now? Well, I think we should say 'Au revoir' to Ch
 
 *****
 
+~~ Talking to a ghost ~~
+
+/*Charlie has a heart to heart with Chase, and Roxie comes to pick her up */
+
+*****
+
+~~ Making new friends ~~
+
+/* Charlie introduces Lowell to Roxie and they have a snack before Roxie heads home */
