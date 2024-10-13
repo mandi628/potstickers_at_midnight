@@ -1,0 +1,2261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<YWRITER7>
+	<PROJECT>
+		<Ver>7</Ver>
+		<SavedWith>7.1.2.4</SavedWith>
+		<SavedOn>2024-10-12 23:44:51</SavedOn>
+		<Title><![CDATA[Potstickers at Midnight]]></Title>
+		<AuthorName><![CDATA[Mandi Aumann]]></AuthorName>
+		<Bio><![CDATA[]]></Bio>
+		<Desc><![CDATA[]]></Desc>
+		<FieldTitle1><![CDATA[Relevance]]></FieldTitle1>
+		<FieldTitle2><![CDATA[Tension]]></FieldTitle2>
+		<FieldTitle3><![CDATA[Humour]]></FieldTitle3>
+		<FieldTitle4><![CDATA[Quality]]></FieldTitle4>
+		<LastFullBackup>2024-10-12</LastFullBackup>
+		<WordTarget>0</WordTarget>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<WordCountStart>0</WordCountStart>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDivider>%2a%20%2a%20%2a</LatexSceneDivider>
+		<HtmlSceneDivider>%2a%20%2a%20%2a</HtmlSceneDivider>
+		<HtmlEncoding>utf8</HtmlEncoding>
+		<HtmlUnicode>-1</HtmlUnicode>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<MRUSpecificDate>2022-12-20</MRUSpecificDate>
+		<MRUSpecificTime>08:00:00</MRUSpecificTime>
+		<LastViewedScID>20</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+		<Fields>
+			<Field_LatexSuppressEarlyPageNums>0</Field_LatexSuppressEarlyPageNums>
+			<Field_LatexSuppressAuthorAndTitle>0</Field_LatexSuppressAuthorAndTitle>
+			<Field_RTFSceneDivider>* * *</Field_RTFSceneDivider>
+			<Field_DocxSceneDivider>* * *</Field_DocxSceneDivider>
+			<Field_PlainTextMode>0</Field_PlainTextMode>
+		</Fields>
+
+	</PROJECT>
+
+	<LOCATIONS>
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Charlie]]></Title>
+		<Desc><![CDATA[Age 25; DOB Dec 24, 1995
+
+]]></Desc>
+		<SortOrder>1</SortOrder>
+		<AKA><![CDATA[Chuck]]></AKA>
+		<Bio><![CDATA[Her brother died on New Year's Eve, just after they turned 18. She returns home every year, just before Christmas, to see her family for her birthday and Christmas, but she leaves before New Year's. She has not been able to settle down since his death.
+
+While she's gone, she travels the state working at tattoo parlors. She has made a name for herself in the community and several popular places in the state reserve a booth for her and schedule appointments. She has a route around the state, but she's not locked into it.
+
+She is currently 25, about to turn 26. This is her 8th birthday without her brother.
+
+She had always drawn/doodled in her notebooks, and anywhere else she could find. During her senior year in high school, she started hanging out at tattoo parlors. She made friends with the artists and they encouraged her work. After graduation, she took the required state classes and started apprenticing at local places. She started going ot tradeshows and conventions for tattoo artists and met several artists from different parts of the state. One of the local boys, Doug, ahd a brother, Robert, who also owned a tattoo place in Rock Hill, so she went to Rock Hill for part of her apprenticeship. The brothers also put in a good word for her at other places, and she was able to split her time and start her client base.]]></Bio>
+		<Goals><![CDATA[Charlie wants to stop the pain that love has caused her.]]></Goals>
+		<FullName><![CDATA[Charlotte Rose Meadows]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Lowell]]></Title>
+		<Desc><![CDATA[Age: 26; DOB Oct 3, 1995]]></Desc>
+		<SortOrder>2</SortOrder>
+		<AKA><![CDATA[Low]]></AKA>
+		<Bio><![CDATA[He first hooked up with Charlie right before graduation. He was best friends with Charlie's brother, Chase. They have known each other since the age of five. After the accident, he spent several months in the hospital with a head injury and had to finish his classwork at home. He returned to school for the last month, and he and Charlie connected over Chase's death. She was lonely and withdrawn.
+
+He was raised by his now-deceased grandfather and Aunt Betsy after his parents died when he was 12.]]></Bio>
+		<Goals><![CDATA[Lowell wants to help Chralie heal from her brother's death by getting her to stay long enough to rekindle feelings of love for the people in her life at home.]]></Goals>
+		<FullName><![CDATA[Lowell James Roberts]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Kenny]]></Title>
+		<Desc><![CDATA[Younger brother to Charlie Meadows
+
+Age: 22; DOB Mar 18, 1999]]></Desc>
+		<SortOrder>3</SortOrder>
+		<FullName><![CDATA[Kenneth Meadows]]></FullName>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>4</ID>
+		<Title><![CDATA[Betsy]]></Title>
+		<Desc><![CDATA[Age: 45; DOB
+
+unmarried; mother of Rachel; aunt to Lowell Roberts]]></Desc>
+		<SortOrder>4</SortOrder>
+		<AKA><![CDATA[Aunt Betsy, Aunt Bets]]></AKA>
+		<FullName><![CDATA[Elizabeth Roberts]]></FullName>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>5</ID>
+		<Title><![CDATA[Rachel]]></Title>
+		<Desc><![CDATA[Age: 21; DOB
+
+Daughter of Aunt Betsy; cousin of Lowell]]></Desc>
+		<SortOrder>5</SortOrder>
+		<FullName><![CDATA[Rachel Marie Roberts]]></FullName>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>6</ID>
+		<Title><![CDATA[Junie]]></Title>
+		<Desc><![CDATA[Age: 27; DOB
+
+Unmarried; former classmate of Lowell & Charlie; desperate for Lowell's attention]]></Desc>
+		<SortOrder>6</SortOrder>
+		<FullName><![CDATA[Juniper Anne Watling]]></FullName>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>7</ID>
+		<Title><![CDATA[Jess]]></Title>
+		<Desc><![CDATA[Age: 26; DOB Feb 16, 1995
+
+divorced; recently returned to Heartsburg; former classmate of the main characters]]></Desc>
+		<SortOrder>7</SortOrder>
+		<FullName><![CDATA[Jessica Persephone Myers]]></FullName>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>8</ID>
+		<Title><![CDATA[Roxie]]></Title>
+		<Desc><![CDATA[Age: 30 DOB
+
+Former boyfriend of Charlie's; now friend & colleague; married to Lucy; lives in Myrtle Beach and hosts Charlie when she's in town. Stereotypical "biker dude" He is tall and muscular, with tattoos on every visible part of his body, as well as some covered areas. He has blue eyes and light brown hair that he keeps cut close to his head. He wears tight t-shirts and jeans with steel-toed work boots. Sometimes he wears a leather vest when he is riding his bike.]]></Desc>
+		<SortOrder>8</SortOrder>
+		<AKA><![CDATA[Rox, Rocky]]></AKA>
+		<FullName><![CDATA[Jason Brian Rockland]]></FullName>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>9</ID>
+		<Title><![CDATA[Lucy]]></Title>
+		<Desc><![CDATA[Age: 28; DOB
+
+Wife of Roxie]]></Desc>
+		<SortOrder>9</SortOrder>
+		<AKA><![CDATA[Lucky, Lucky Lucy]]></AKA>
+		<FullName><![CDATA[Lucille Faith Myers]]></FullName>
+	</CHARACTER>
+
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[Series Titles]]></Title>
+		<Unused>-1</Unused>
+		<Fields>
+			<Field_SceneType>1</Field_SceneType>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>121</WordCount>
+		<LetterCount>691</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Heartsburg Chronicles
+1. Potstickers at Midnight - Charlie & Lowell - in progress; Dec 2021 - married Dec 2022
+2. Grapenuts at One - Kenny & Allison; Jan-Feb 2022
+3. Pumpernickel at Two - Jess & Aaron; Feb-Mar 2022
+4. Tapas at Three - Junie & Ben (Aaron's brother)
+5. Reubens at Four - James & Celeste (Aaron's sister)
+6. Black Pudding at Five - Emily & David (Aaron's brother)
+7. Pumpkins at Six
+8. Tiramisu at Seven
+9. Landyfingers at Eight
+10. Bannocks at Nine
+11. Treacle at Ten
+12 Truffles at Eleven
+13. Johnny Cakes at Noon
+14. Guacamole at Dawn
+15. Kiwi at Twilight
+16. Mandarin Morning
+17. Sushi Sunset
+18. Turducken at Dusk
+19. Eggs in the Evening
+20. Melting Mozzarella at Moonrise]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>2</ID>
+		<Title><![CDATA[Series Characters]]></Title>
+		<Unused>-1</Unused>
+		<Fields>
+			<Field_SceneType>1</Field_SceneType>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>143</WordCount>
+		<LetterCount>679</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Aaron Maxwell and his siblings:
+Aaron [32 yo in Book 3] (Book 3)
+Ben [30 yo in Book 3] (Book 4)
+Celeste [29 yo in Book 3] (Book 5)
+David (twin to Eric) [27 yo in Book 3] (Book 6)
+Eric (twin to David) [27 yo in Book 3] (Book 7)
+Felix [24 yo in Book 3] (Book 8)
+Georgia [21 yo in Book 3] (Book 9)
+
+Other characters that can have storylines:
+Kenny Meadows [22 yo in Book 1] (Book 2; sister to Charlie Meadows [Book 1])
+Jess Myers [27 yo in Book 1] (Book 3)
+Junie Watling [26 yo in Book 1] (Book 7; friend to Lowell [Book 1])
+Rachel Roberts [21 yo in Book 1] (Book 8)
+Brian Doherty (friend of Kenny) [22 yo in Book 1] (Book 9)
+Betsy Roberts [47 yo in Book 1] (aunt of Lowell Roberts)]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>3</ID>
+		<Title><![CDATA[Charlie arrives back in her hometown...]]></Title>
+		<Desc><![CDATA[Charlie arrives back in her hometown, stopping at her brother's grave on the way home.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>2</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-16 22:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>911</WordCount>
+		<LetterCount>4918</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Charlie breathed a deep sigh as the town came into view. As usual, she hadn't been home since last Christmas. This year wasn't really any different. Her chest always started hurting the closer she got to town. As soon as the water tower came into view, her blood pressure started rising.
+
+Coming home was never a bad experience, but bad things had happened, and she didn't want to remember. And she couldn't leave her family completely behind. She knew that they were hurting, too. And to cause them more pain than what they were all feeling already was unthinkable.
+
+As her buttercream 1965 Pontiac Bonneville lumbered down the road, Charlie couldn't help but think back to the first time she left. It had been so hard finishing the senior year without her brother, her twin, and her other half. The accident on New Year's Eve shook the whole town. If it hadn't been for his head injury, Chase's best friend, Lowell, would have been persecuted by the town. They hit a patch of black ice on their way home from Jake's, the Chinese bar and grill owned by Lowell's grandfather and aunt. Chase was driving, and the car wrapped around a utility pole. No one saw it coming. No one could have done anything - except keep them home that night. But the New Year's Eve Luau at Jake's every year was a town tradition. Everyone went. Everyone celebrated. Everyone stayed until well after midnight. No one could have predicted that two of our golden boys would not make it home that night, and one wouldn't make it home ever.
+
+The bar came into view, and Charlie smiled. She could picture the scene. Jake's was the evening hang-out for everyone in town. When the teens were finished bowling or roller skating for the night, they headed to Jake's. It was clean, well-lit, and a fun place to be, even if you might run into your parents. Heartsburg really was a great place to live and Charlie missed it when she was gone. Most of the towns and cities she had frequented in the last seven years had deep, dark places even Jack the Ripper wouldn't be caught dead in. Wow, seven years...
+
+She never missed her birthday or Christmas, but she always missed New Year's Eve. Maybe this year it wouldn't hurt so much. Maybe this year she'd be able to stay longer.
+
+As she continued down Main Street, all her old haunts came into view. It was dark and Jake's was the only place still open after ten on any night, but the memories flooded her mind. Junie, Jackie, and Beckie with her in the square for the Christmas Tree Lighting. Chase, Kenny, Lowell, and her parents heading downtown for the free movie in the park every weekend in the summer.  Playing tag on the way to the library after school. Piling into the minivan to take in a museum in Columbia on the weekend. Yes, Heartsburg was a good place to grow up. Heartsburg was a place to feel loved. And it all ended when Chase died.
+
+She pulled into the cemetery driveway. The gate was always locked at night, but Charlie just parked on the side of the road and walked to her brother's headstone. Kneeling down in front of the stone, her hands drifted over the cold granite.
+
+"I miss you, Bubby. It's been a while, but everything is good. I know I talk to you all the time, but it's always a little different when I'm here, with you. The tattoo business is going well. I have waiting lists at every parlor I work. Not ready to plant my feet yet, so I just keep moving around - kicking butt and taking names like we used to. No boyfriends or anything yet. I hook up, but no one has been good enough to fill your shoes yet. I know it's not the same, but there's a big hole in my heart where you used to be. And I haven't found anyone strong enough to make the hole smaller yet. But I promise, when I do, you'll be the first to know."
+
+She sat for a few minutes before going on. "I'm heading over to see Mom and Dad now. I'll be back later. Love you, Bubby," she said as she kissed the headstone and rose to her feet. Before she left, she added a key chain to the collection at the foot of the stone. "Just a little souvenir from my travels. Enjoy!"
+
+Strolling back to her car, Charlie smiled. She always felt a warm touch when she visited Chase's grave. She got in her car and drove away, only minutes from her childhood home.
+
+The security light at the corner of Baxter and J hardly did anything to light the street. Charlie knew her way anyway. She quietly eased the car into her parent's driveway. They would be asleep, but they knew she was coming. Maybe not tonight, but they knew she would come. Her room would be clean and have fresh sheets. She would go in the back door, which was always unlocked. One of her mom's habits from when they were teens. Lowell had a hard time growing up and sometimes needed to be someplace that wasn't home. And they had other friends that needed a sanctuary. Most didn't use it, but Charlie always liked knowing her friends had someplace safe to be.]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>4</ID>
+		<Title><![CDATA[Lowell sees Charlie's arrival and gets ready to see her]]></Title>
+		<Desc><![CDATA[Lowell sees Charlie's arrival and gets ready to see her.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>2</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-16 22:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>846</WordCount>
+		<LetterCount>4635</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[The bar was busy, even for a Friday night. Christmas break started on Monday, but families were out in full force tonight. Must have been for Christmas shopping. That, and Santa was visiting Town Square Park this week. Lowell didn't think he had ever made so many chicken finger baskets before in his life.
+
+"Lowell! Get the trash out! I need to keep these plates moving!" The holler from the kitchen startled Lowell from his three-second break.
+
+"Yeah, Bets. I'm working on it!" Aunt Betsy inherited the bar from his grandfather. They had raised him after his parents died when he was in middle school. It wasn't a super warm childhood - not like the Meadows' house. Betsy and Pa had done their best. And they were hurting, too. His parents were on their way back from the only trip they had ever taken after he was born. They went to Disney World for their fifteenth wedding anniversary and never came back. The police had done everything they could to find their killers, but the "mugging gone wrong" was never solved.
+
+Lowell bundled the trash in his large hands and headed out the back door before someone could catch him and order another chicken finger basket. The door slammed behind him as he headed out into the fresh air. Even though it was a bar, it was a family-friendly place. No smoking, no swearing, and absolutely no fighting. The teenagers could get a little hot under the collar sometimes, but Lowell just had to loom over them with his scarred face and six-foot-four build and they cooled their jets.
+
+His head whipped around as he heard it. Not it, her. The telltale purr of Sherry, the 1965 Pontiac Bonneville that Charlie drove. He didn't have to see to know that the buttercream beauty was heading home. Charlie was here. The world was in balance again. She was earlier than usual - eight whole days before Christmas. She never missed her birthday, and she never missed Christmas. Well, they were technically the same holiday, but she was home every time.
+
+Checking his watch, he saw that he had time. He knew she would stop to see Chase before heading home. At this hour, she was in no rush. Her family would be asleep, and she'd be able to enter unannounced. Lowell bounced up the steps into the back of the bar.
+
+"Three chicken finger baskets, coming up!" Betsy yelled.
+
+Lowell rolled his eyes. Why didn't these people go home? Didn't they have jobs, he wondered.
+
+"Bets, can you make me an order of chicken and broccoli, with a side of potstickers, please?"
+
+"She's home, huh?"
+
+"Yeah. I'm gonna give her a bit, but I thought I'd go welcome her home."
+
+"Alright, but start cleaning up before you go, wouldja?"
+
+"You bet, Bets. Thanks!" Lowell said, leaning over to kiss her on the cheek.
+
+Heading to the front of the bar, Lowell grabbed a rag and started wiping down tables. He knew that if he started putting chairs up on the tables, people would get the hint and start closing their tickets.
+
+"Closing early tonight, Lowell?" asked one customer.
+
+"No, Mr. Singer. Just got stuff to do tonight, so I thought I'd get a head start. Go ahead and finish your plate. Betsy'll get you closed out."
+
+He tried not to rush as he moved around the room, wiping, sweeping, and lifting chairs. He would mop when he came back, and he knew Aunt Betsy would close the till. The only thing left was cleaning the bathrooms, and he could wait to do that, too.
+
+About thirty minutes after he placed the order, Betsy placed her hand on his elbow.
+
+"Here ya go, sugar. Tell her I said hello, and give her a big hug from me. We all miss her, you know."
+
+"Thanks, Bets. I will pass on the message, but I don't think it will change anything."
+
+"I pray every day that this year will be different. That girl needs to plant her feet somewhere and make a home. If anyone in this world deserves love, it's her. She doesn't have to stay here, but she needs to stay somewhere where she can make connections and grow roots. She won't finish growing up until she faces her heartache and lets someone in."
+
+"I know, Aunt Bets. I couldn't have gotten through everything I've suffered if it wasn't for the love and support I got from you and the Meadows' when I was growing up. But you can't help someone who doesn't want to be helped."
+
+"Well, don't stay too late. I know you're adults, but be respectful of her family and the other people in that house."
+
+"Yes, ma'am," Lowell said, leaning in for a kiss. "See you in the morning."
+
+He graciously took the bag of food from Betsy and headed out. He decided to take his bicycle because it was quieter than his car, so he put the bag of food in a backpack by the back door and grabbed his bike.]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>5</ID>
+		<Title><![CDATA[Charlie gets settled in her room and receives a visitor]]></Title>
+		<Desc><![CDATA[Charlie gets settled in her room and receives a visitor]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>2</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-16 23:00:00</SpecificDateTime>
+		<LastsMinutes>30</LastsMinutes>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>634</WordCount>
+		<LetterCount>3412</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Charlie tossed her backpack on the window seat in her room. It was like walking through a time machine. Everything in her room was the same as when she left. One of these visits she was going to have to make some updates. But at the same time, she didn't want to upset her mother by making any changes.
+
+Peeling off her clothes, Charlie crawled into the bed in her tank top and undies. She never liked wearing pajamas. It didn't make sense to have a separate set of clothes just for sleeping. The room was dark and smelled fresh, like flowers. Her mom must have sprayed one of her herbal sprays in the room recently. The sheets were crisp and the comforter was warm. Everything was just the way she liked it.
+
+As she started drifting off, Charlie noticed a change in the room. It wasn't really a noise, but the energy was different and she smelled food.
+
+"Charlie, you're not sleeping already, are you?" came a whisper from the dark.
+
+"Lowell, is that you? What are you doing here?"
+
+"Couldn't wait to see you, darlin'," he said, sitting on the bed. She felt his weight shift on the bed as he sat. "And I brought you something."
+
+Charlie reached over and turned on the light on the nightstand. The soft glow lit his face. He grinned like a cat that caught a canary.
+
+"You didn't. My favorite nighttime snack? Potstickers?" Charlie hungrily opened the bag.
+
+Lowell nodded. "And Aunt Betsy's chicken and broccoli. I'm so glad you're home." He leaned in to hug her, and Charlie had to move the food bag to keep the cardboard containers from getting smashed.
+
+As he pulled back, Lowell placed his palm on her cheek. His blue eyes were soft as he looked her over.
+
+Charlie reached up and touched his face. She ran her fingers through his blond hair, lightly touching the scar on his left cheek. It continued for a few inches into his hair. A constant reminder of the tragedy in his past.
+
+As she studied him, she leaned in to kiss him. His lips were warm and soft on her mouth. She parted her lips and let his warmth wash over her. God, she missed this. She missed him. The food bag abandoned, she lifted her other hand to his face and deepened the kiss. His hands slid around her back and she was lost.
+
+Their mouths teased and tasted and they shared breath as they reconnected. She stroked his head, grabbed his neck, and hugged him fiercely as their lips melded together. His hands smoothed up and down her back, one hand stroking the back of her head before moving back down her body.
+
+She hadn't even been back in town for a full hour and they were already face-to-face. She hadn't planned on jumping right into it with him this time around, but what the heck. He was here, and it felt good.
+
+She thought his hands were drifting down to lift her tank top, but he braced his hands on the bed and pulled back instead. When she didn't let go, he gently pulled her hands from around his neck.
+
+"Charlie, stop. I haven't seen you in a year, and this is not how I saw this evening going."
+
+Charlie kept kissing his face - breathy pecks on his cheeks, jaw, eyes - anywhere she could reach.
+
+"Charlie," he said, this time taking her face in his hands. "I just came to say hello. We are not doing this tonight."
+
+"But, baby," Charlie purred, "it's been a whole year."
+
+Lowell chuckled. "I doubt you've been lonely the whole time. I know you, girl. You live every day to the max. But I am just here for my friend tonight."]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>6</ID>
+		<Title><![CDATA[Things get hot between them, but Lowell cools them off.]]></Title>
+		<Desc><![CDATA[Things get hot between them, but Lowell cools them off.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>2</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-16 23:30:00</SpecificDateTime>
+		<LastsMinutes>30</LastsMinutes>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>864</WordCount>
+		<LetterCount>4701</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA["Well fine," Charlie blurted, pulling back and sitting in a full-on pout. Lowell couldn't help but chuckle out loud. He'd known Charlie since they were five years old, and she pulled this stunt any time she didn't get her way.
+"No need to pout, Charlie-girl. We have time," he said.
+
+"Fine, then I'm not sharing my food with you," she snapped, reaching for the bag.
+
+"You better quiet down, or you'll wake your parents." Lowell couldn't wipe the grin off his face. He always felt younger somehow when Charlie was around.
+
+She peered into the bag and started pulling the containers out. "Do you want some chicken and broccoli? I'm not sharing the potstickers, though," she said with a crease in her brow.
+
+"Sure, I'll share. I even brought chopsticks, spoons, and napkins." Lowell reached into his pocket and pulled out the eating ware.
+
+"Oh," she said, a delighted smile brightening her face. "You did think of everything!"
+
+She popped open the take-out containers, snapped the chopsticks apart, and started on the chicken and broccoli.
+
+"So, whatcha been up to?" Lowell asked, with a slow drawl. He didn't usually like to sound like he was from South Carolina, but occasionally, it was fun to exaggerate his speech a little. He reached across her lap with his own chopsticks and grabbed a bite of the food.
+
+Charlie eyed him while she chewed her food. "You know what I do when I'm not here. I hang out anywhere they'll take me and make permanent art on people," she said, eyeing him. "Or are you asking me something else?"
+
+"I'm just making conversation, honey," he said, reaching for another bite.
+
+"Well, things have been pretty good," she said, as she gathered another bite herself. "Roxie always has waiting lists for me when I get to Myrtle Beach. I usually call Jacob in Abbeville when I head his way, and he has me booked by the time I get there. Everyone's so great to work with, and the customers are wonderful - most of the time." She said with a laugh, scooping another bite into her mouth.
+
+"What's the weirdest tattoo you did this year?" Lowell loved hearing her stories about crazy customers. Most of them were agreeable, manageable, respectful even. But every time she came home, she had at least one story of a demanding customer that wasn't pleased with anything she did.
+
+"Hmm... I didn't have any weird ones, but I had a cool situation. A young girl came in to get her first tattoo for her 18th birthday, and she brought her mom to get one, too. Then, her grandma came in. They were all getting their first tattoos. The grandma was a little more finicky about hers, but it's permanent, you know? I totally understood her wanting it to be perfect. They were all so sweet. The girl got the Creation of Adam on her wrist - you know, the fingertips touching? I think she was an art student. The mom got some musical symbols that she brought in herself. I had done lots like it before, but this was a little different because it had a third symbol on top. The grandma got a yellow rose on her ankle. I think she did a great job choosing the size and angle of it."
+
+"And none of them had gotten tattoos before? That's kind of cool. I couldn't imagine doing something in three generations like that."
+
+"I know. It made me kind of miss my grandparents a little. But I would've done stuff like that with Chase all the time," she said with a smile.
+
+"Yeah, I know what you mean. I guess I did do stuff with Betsy and Gramps, but nothing sentimental like that. We were together all the time running the bar, but it was business and family. Everything in our lives is about that place."
+
+"Don't you get tired of it? Don't you ever think about leaving?"
+
+She seemed hopeful for the right answer, and Lowell knew he didn't have it. "Where would I go, Charlie? What would I do? Run another bar? That's all I'm trained to do, and I've got a good thing here. I live above the place, on my own. I have no bills. I can use my time how I like. If I want to take off an afternoon to help a friend build a shed or something, I can do that. The bar allows me to be a part of the community, aside from serving them food."
+
+She sighed. "I know, Lowell. You really do belong here. This place is in your blood." She took another bite. "So when are you getting married?"
+
+Lowell almost choked on his bite of food. "What?"
+
+"Married. You know, ball and chain, tied down, get yourself an old lady." Charlie chuckled. He did need a partner in his life.
+
+"What makes you think I don't have someone already?" If it wasn't dark in the room, Charlie would see the blush creeping up his face.
+
+"Please. You're here in the middle of the night. No one would stand for that."
+
+"No one comes before you, Charlie. No one."]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>7</ID>
+		<Title><![CDATA[Charlie is hurt that he cooled it, but they eat and talk and cuddle]]></Title>
+		<Desc><![CDATA[Charlie is hurt that he cooled it, but they eat and talk and cuddle]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>2</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17</SpecificDateTime>
+		<LastsMinutes>30</LastsMinutes>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>568</WordCount>
+		<LetterCount>3073</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Charlie lifted her chin to peer into his face. Even in the dark, she could tell his sincerity.
+
+"Lowell, are you seeing someone? Is that why you stopped me earlier?"
+
+"Come on, Charlie. Would I be here with you if I was seeing someone?"
+
+"Then why are you here?"
+
+"To catch up with an old friend who I only get to see once a year. Now eat your food," he said, kissing the tip of her nose.
+
+The chicken and broccoli were almost gone, so she handed him the container to finish and reached for the potstickers. They were heavenly - tender and tasty, and the sauce was perfect, as always. She didn't know if the recipe was a Roberts' family tradition or a carryover from the previous owner, but these were the best potstickers she ever had.
+
+"So how about you, then, Lowell? What have you been up to?"
+
+"Me? Not much. You know how things go around here. Slow in the winter, busy in the summer. People traipsing through here on the way to Myrtle Beach and stuff. The Thomas' opened some of their lands as a campground, so we get more people staying over, instead of driving through. And the Wilsons fixed up the Reed House and opened it as a bed and breakfast. I hear the city council is planning to start renting scooters to ride around downtown, so that'll be a mess if they ever agree."
+
+Charlie laughed about the scooters. She could imagine having lunch downtown with all the scooters whizzing by. It really would be a disaster. And the scooters wouldn't stay downtown for long. People would take them all over town.
+
+The potstickers were gone now, so she bundled up the food trash and put it in the bag.
+
+"I'll take that when I go," Lowell said.
+
+"But you're not going now, are you?" Charlie said, distress in her voice.
+
+"No, honey. I'll stay as long as you like," he said, reaching over to brush the hair from her face. Charlie thought he was lying to her about seeing someone. Lowell was so kind and protective. She couldn't imagine that he hadn't caught someone's attention. Everyone knew what happened in high school and what his scars were from. There couldn't still be issues about that. No, she was sure he was seeing someone. She just had to find out who.
+
+"Well, let me make some room so you can stretch out. We can catch up." She scooted over in the bed and laid down, pulling the covers to her chin - not to be prudish, but to be comfortable. He stretched out beside her on top of the covers, supporting his head with one arm and resting his other arm over her stomach as he started telling her more about some of their friends from town.
+
+She listened to him tell stories from the year - the St. Patrick's Day Festival, Oktoberfest, Fourth of July Picnic, Veteran's Day Parade, and the new Santa at the mall this year. His voice was soft and smooth, so comforting. She never realized until she was home how much she missed listening to him when she was gone.
+
+She laughed and grunted in all the right places while he spoke, but before long, she drifted off to sleep. His weight next to her felt like home, and she had the best night's sleep she'd had all year.]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>8</ID>
+		<Title><![CDATA[Charlie wakes and is happy with Lowell, and wakes him with a kiss ***]]></Title>
+		<Desc><![CDATA[Charlie wakes and is happy with Lowell, and wakes him with a kiss ***]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>3</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 05:00:00</SpecificDateTime>
+		<LastsMinutes>30</LastsMinutes>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>485</WordCount>
+		<LetterCount>2719</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Charlie woke as the sun started lightening the sky. Her sleep had been peaceful and warm. She didn't remember the last time she felt so comfortable in a bed. As her head cleared, she realized why. Lowell had fallen asleep next to her, his arm still draped over her stomach. He didn't usually stay, and he looked so peaceful sleeping, but she had to wake him before her parents got up. She didn't know if they knew about her and Lowell, but she didn't think him joining them for breakfast was a good way to tell them.
+
+"Lowell," she whispered in his ear. A small smile spread across his face as she rubbed his arm and shoulder. "Lowell, it's morning. You have to go."
+
+"Never, Charlie. I'm never leaving you," he said, still half sleep. His hand reached for her face and he was kissing her. Without really thinking about it, she kissed him back. Their tongues danced between their mouths and their hands drifted over each other's torsos. As their kisses deepened, their need grew in urgency.
+
+Charlie threw off the covers and reached for Lowell's belt buckle. Fully awake now, Lowell pulled back for a second.
+
+"Are you sure?" he asked, knowing the answer already.
+
+"Lowell, just get your clothes off," she answered, unbottoning his pants.
+
+He pulled off his flannel overshirt and t-shirt before reaching for her tank top. She was already ditching her underwear. Deciding she didn't want to mess withh is boots, she pushed his jeans and boxers down to his knees, fully at attention and ready for her. He placed his mouth back on hers, and gently pushed her on her back, and reached between her legs. She was wet and ready for him when she parted her legs. He inserted a finger and stroked her inside. She quivered around his finger, and he added another one. She moaned and gripped his shoulders as he rubbed her.
+
+"Lowell," she breathed. "Please--" She grabbed his hips and pulled her towards him.
+
+He braced himself on both hands as she guided him to her and in. She gasped as he entered, releasing his mouth from their kiss. He kissed her neck and shoulder as he started pumping, and she saw stars. No one else had ever made her this high, and she rose higher as he worked his magic. Higher and higher as he kissed her breast and she stroked his chest. She opened her eyes and looked at him - his beautiful face, firm jaw, straight nose, sparkling green eyes. As their eyes connected, she felt something spark, and she couldn't stop the explosion, even if she wanted to.
+
+They finished together, mouths joined, bodies entwined, and time stopped for a moment.
+
+Birds tweeted outside the window, and Charlie was reminded that morning had come.
+
+"I have to go," he whispered into her neck.
+
+"I know," she whispered back.]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>9</ID>
+		<Title><![CDATA[Lowell considers what just happened as he rides his bike back home ...]]></Title>
+		<Desc><![CDATA[Lowell considers what just happened as he rides his bike back home in the early morning hours.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>3</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 05:30:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>10</ID>
+		<Title><![CDATA[Charlie wakes again, alone, and greets her family in the kitchen]]></Title>
+		<Desc><![CDATA[Charlie wakes again, alone, and greets her family in the kitchen]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>3</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 08:30:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>815</WordCount>
+		<LetterCount>4532</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Charlie woke again to the sound of pots and pans clattering in the kitchen. Mom always put away last night's dishes before starting breakfast. Dad would be coming down soon, after trying, for the third time no doubt, to get Kenny out of bed. Afther they cleaned up, Lowell left quietly, and Charlie fell back asleep.
+
+She pulled on some leggings and threw a hoodie over her tank top. Running her fingers through her hair, she headed out of the bedroom to the kitchen.
+
+"Hi, Mom," Charlie almost whispered.
+
+Whirling around, Beverly Meadows almost dropped the stack of plates in her hand.
+
+"Charlie! We didn't expect you until tomorrow! Joe! Get down here! Charlie's home!" And suddenly, she was wrapped in her mother's arms. She had no idea what happened to the plates, but she was glad to be home. Something was different this time, and it actually felt like she had arrived somewhere. Before, she was only visiting. But this time, she felt like she might be ready to stay.
+
+"Charlie?" her dad called from the stairwell. "Kenny! Get down here! Your sister's home!" Suddenly, he arrived in the kitchen and hugged Charlie. "Charlie, how are you? Things good?" he asked, squeezing her to his chest.
+
+He pulled back and stroked her shoulders with his thumbs. "You doing well, Charlotte? Do you need money? How's the car? She treating you well?"
+
+Chuckling, Bev took Charlie's hand and led her to the table. "Enough, Joe. She just got here. We have time. Right, Charlie?"
+
+"Yeah, Mom. We have time." She smiled a little, knowing she didn't give them enough time. She felt guilty, but it had been what she had to do to get through. She had needed time, and space, to mend her heart. But she was starting to think that it was almost put back together enough that she could do this family life, and let her family heal.
+
+Kenny finally appeared in the kitchen as Bev started pouring coffee.
+
+"Yo, sis."
+
+"Hey, bro."
+
+That was all they needed, and the missed time was gone. Charlie had always felt the worst for Kenny. She knew she should have stayed to be a big sister to him. And maybe things would have worked out better for him if she had stayed - maybe he wouldn't have made the mistakes he made, and maybe he wouldn't have had to go to jail. Or maybe they both would have been in jail. But all was forgiven between Charlie and her baby brother.
+
+"So, Charlie?" her dad asked. "How are things?"
+
+"They're good, dad. I've been keeping busy working. Been putting back my money, like you taught me. I could buy a house right now, if I wanted to, but I'm not ready yet."
+
+"Is that right? A house? Nice job, honey," her mom said, throwing a glance towards Joe. "Keeping your expenses down is helping a lot."
+
+"And the car? She's behaving?"
+
+"Oh yeah. She needs some coaxing from time to time, but I've got a bike I use sometimes, too."
+
+"Oh yeah?" Kenny finally perked up at the mention of a motorcycle.
+
+"It's a Honda Shadow - I call her Cherry. I painted it gunmetal gray and tweaked the exhaust. It purrs like a kitten. Great cruiser for country riding with the gang."
+
+"Sounds like. Did you bring it?" Kenny asked, eager for some interested news. If she did, that might mean she was sticking around awhile. He had heard her car when she arrived last night. But she could have towed it.
+
+"Not this time, bro. Maybe next year."
+
+Kenny's heart sank. Sounds like maybe she wasn't planning to stick around this time. He loved these Christmas visits, but he missed her when she was gone. He often wondered if things might have been different if they had had a deeper relationship. But she shut down after Chase died. It hurt him, too, but for her, it was like losing a limb. 
+
+Beverly put more pancakes on her daughter's plate. "What are your plans today? Any requests for dinner?"
+
+"Not sure yet, Mom. I'll probably spend some time with Lowell today, after I catch up with everyone. I'll let you know."
+
+"Ok, honey. Make sure to leave out your dirty clothes. I'll do some wash for you today."
+
+Charlie tried not to roll her eyes. Her mom acted like she couldn't take care of herself. "Thanks, Mom. But I'm okay. Everything's all clean."
+
+Charlie got up from her chair and grabbed her dishes to wash in the sink.
+
+"I got it, honey. Leave them there."
+
+"Thanks, dad."
+
+"Sis, you heading into town? I gotta get to work at Jake's."
+
+"You're working at Jake's now? That's great! Good job, Ken!"
+
+"Thanks," he said, sheepishly. The praise was unfamiliar. "Um, can I get a ride? You got room for my bike?"
+
+"Sure. Ready in 15?"
+
+"Yeah, sounds good."]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>11</ID>
+		<Title><![CDATA[Charlie gives Kenny a ride into town for work and they reconnect]]></Title>
+		<Desc><![CDATA[Charlie gives Kenny a ride into town for work and they reconnect]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>3</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 09:30:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>12</ID>
+		<Title><![CDATA[Lowell gets the bar ready, and find out Charlie is in town]]></Title>
+		<Desc><![CDATA[Lowell gets the bar ready, and find out Charlie is in town]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>3</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 10:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>712</WordCount>
+		<LetterCount>3767</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Lowell took one last look in the mirror before heading for the door to his apartment, and down the stairs to the back hall of the bar, tucking in his shirt along the way. As he arrived at the bottom of the steps from his apartment, he almost ran into Kenny.
+
+"Hey, boss. Sorry - Charlie came back last night, so we were late getting going this morning."
+
+Lowell hadn't forgotten her arrival, but he had forgotten that her family hadn't seen her yet. "No problem, Kenny. Let's just get things going, yeah?"
+
+"Sure thing, boss. Thanks." And he headed to the kitchen to turn on the fryers and start prepping the food.
+
+Lowell headed to the front to set out the chairs and get things set up for the lunch rush that would be starting soon. They opened at 11:00 for lunch, but it took a good hour to get things ready. Once he got the house set up, Rachel and Junie would finish getting the silverware and menus sorted. Lowell headed to the kitchen to help Kenny prep.
+
+"So how's Charlie?" Lowell asked Kenny as he grabbed the bin of iceberg lettuce from the walk-in cooler.
+
+"She seems good. Mom and Dad were all over her, asking her questions and stuff. She gave me a ride into town, but we only really did small talk. She seems the same as she always does - distant and bored."
+
+"Did she say how long she's staying?" Lowell really only heard that Charlie was here, on the square. He didn't really hear anything else Kenny said.
+
+"You know she never says, but she'll be gone by New Year's like she always is."
+
+"Yeah. Don't forget the onions." He wondered if he'd have time to go find her and talk to her. He really hadn't meant to have sex with her, and he certainly hadn't meant to stay. She felt so good in his arms when she dozed off. Then, when she woke him this morning, all bets were off. And something was different this time, even if Kenny didn't see it. When they touched and made love, something about it seemed more open. She had always shielded herself, even from him, and now she was blooming.
+
+"Jeez - you forget something once, and they never let you live it down!" Kenny teased, as he reached for the bin of onions.
+
+Lowell grabbed a towel and started wiping off his hands. "Listen, I've got to run and do something. Can you keep things moving here?"
+
+"Yeah, sure," Kenny said, excited that Lowell was leaving him to do it on his own for once.
+
+"Thanks," Lowell said, halfway out the door to the dining room already. "Girls, I've got to head out for a minute. Can you finish up here? Ready to open in 30?"
+
+"Yeah, boss. We got it," Rachel said.
+
+Junie stepped in front of Lowell as he reached to open the front door. "Lowell, baby, when are we gonna go out? I keep telling you I want to try that Italian place over in Summit, but you never ask me to go."
+
+"Junie, I just haven't had time. I'm sorry. But I've heard it's a great place. You should see if Jax or Rob can take you. They usually finish work at the shop early."
+
+She placed her palm on his chest and drew circles with her thumb. Her bottom lip stuck out slightly, she said, "But Lowell, baby, I want you to take me. It'll be our first date." A smile slowly grew on her face.
+
+Lowell could still feel Charlie's hands on his chest where Junie was touching him. He almost groaned at the memory. He gently took her wrist and removed her hand from his body. "Junie, please stop. I've told you before that I'm just not interested. I figured, after all these years, that you would believe me. You are a beautiful and smart woman, but I'm just not into you."
+
+"Oh, you don't mean that, Lowell, baby. You just don't know me well enough yet," she said with a giggle.
+
+He side-stepped her and headed out the door. "I don't mean to be rude, but I'm saying I don't want to know more. Now get to work, yeah?"]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>13</ID>
+		<Title><![CDATA[Charlie sees Aunt Betsy, and she fills Charlie in on some town gossip]]></Title>
+		<Desc><![CDATA[Charlie sees Aunt Betsy, and she fills Charlie in on some town gossip]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>4</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 10:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>998</WordCount>
+		<LetterCount>5543</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[After parking her car, Charlie started walking around the downtown square of her hometown. Not much had changed since last Christmas, and she always enjoyed the huge Christmas tree they put up in front of the courthouse each year. At night, the Christmas lights on the square made it as bright as day. The Veteran's Memorial statue always had hats and scarves for people in need, too. It really was a nice place to live.
+
+Mr. Parker, who owned the hardware store, waved to her as she walked by. She saw Mrs. Anderson inside, buying Christmas lights. Mrs. Anderson was staring her down and her tongue was wagging, as usual.
+
+A couple of new restaurants had opened up on Main Street, and they looked promising. Charlie also noticed signs for rooftop seating. Of course, there wouldn't be a huge demand for that in this weather, but it seemed like things were improving downtown. Lots of reconstruction and improvements on some of the buildings that had been sitting empty for far too long.
+
+The ice cream shop had a new general store next door - it had the same name as the ice cream shop. Charlie stepped into the general store to see what they were offering. She found honey from some local vendors, lots of brochures advertising local activities and events, South Carolina themed t-shirts, and the standard drinks you would find in any convenience store. The creamery two towns over had products in a refrigerator case and a local meat processing company, too. It was exciting to see a partnership between these local businesses.
+
+She left the general store and headed on down the street. She saw Lowell's Aunt Betsy setting up a sign in front of the flower shop.
+
+"Hey, Aunt Betsy," she called.
+
+Betsy turned and called back, "Charlie! Come on in!"
+
+Charlie followed her into the flower shop and was engulfed in floral scents. She couldn't pick out any particular scent, but it was heavenly. The mixture of scents was enough to take notice, but it wasn't overwhelming. Betsy had done a good job of keeping it from being nauseating.
+
+"How're you doin', kiddo? Glad you're back, safe and sound," Betsy said as she wrapped her arms around Charlie. Betsy smelled like a greenhouse - dirt, fertilizer, and water. Who knew water had a smell.
+
+"I'm good. Things are going well with my business, and I have customers all over the state. Sometimes I even have a waiting list when I get back into a town." Betsy was busy arranging bunches of flowers in their canisters on the shelves.
+
+"Hey, that's great. You have a following! Do you do any social media marketing?"
+
+"Yeah. I post on Facebook and let people know when I'm heading to a specific shop. Sometimes the shops even contact me from Facebook, and ask me to come. I get a lot of leads that way. I went to three new shops this year."
+
+"That's awesome, hon. I'm so glad you've got something that works for you."
+
+"Thanks, uh, so are you working here now? I thought the bar was doing really well."
+
+"Oh, it is, hon. It is. After dad died, I decided I didn't just want to be a bar owner. That's really more Lowell's calling. So I bought this place when Betty Lynn Shaeffer retired in March. It's been so great to have something new to do, after being raised in that bar. I just love it. And things seem to be going much better, now that quarantine is over."
+
+"Yeah, quarantine was rough everywhere."
+
+"Have you seen Lowell yet?"
+
+Charlie clear her throat. "Uh, no. Thought I'd head over there after I browsed down here a little bit. In some ways nothing changes around here. And in other ways, everything changes, you know?"
+
+Betsy laughed. "Yeah, I know exactly what you mean. It's seems like we're standing still, but the world keeps on moving whether we want it to or not." Charlie perused the greeting cards while Betsy kept working.
+
+"Listen, Charlie, about Lowell," Betsy said cautiously. Charlie picked her head up to look at her. "Honey, he hurt for a long time, and he's in a good place now. Be sweet to him, huh?"
+
+Charlie took a minute to reply. She didn't really know what to say, and she started to worry if Lowell had said something to Betsy. But Betsy continued without waiting for a reponse.
+
+"What I mean is, he has had a soft spot in his heart for you since you were kids. When Chase died, he spent a long time waiting for you so you could mend your hearts together. We're all adults here, and he's not angry anymore, but he needs to have peace. He deserves to love and be loved. It doesn't have to be you, and we're all okay if it's not you. But you have to decide and tell him so he can move on. You know what I mean?"
+
+"Uh, yeah," Charlie sputtered. "Move on. I get it." She absolutely did not get it. She and Lowell had never been a thing. Sure, they hooked up for comfort, and they had been close as kids. But she never thought he wouldn't move on without her permission. "I'll give it some thought, Aunt Betsy, and make sure to talk to him before I head out again."
+
+"Thanks, doll. See you later?"
+
+"Yeah," Charlie said hesitantly as she started moving towards the door. The conversation had surprised her because Aunt Betsy didn't usually meddle. She and Lowell had never really talked about their relationship, or how it had changed since Chase died.
+
+She crossed Main Street and headed back towards her car, in the general direction of Jake's, deep in thought. She hadn't really even thought about how any of her realtionships had changed since Chase's death. She had just avoided them all. Maybe it really was time to stick around a little longer and sort all that out.]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>14</ID>
+		<Title><![CDATA[Lowell catches up with Charlie and is interrupted by Roxie's arrival]]></Title>
+		<Desc><![CDATA[Lowell catches up with Charlie and is interrupted by Roxie's arrival]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>4</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 10:30:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>744</WordCount>
+		<LetterCount>4018</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA["I'm sorry things went the way they did this morning," Lowell said as he matched stride with Charlie. He had seen her walking through the Town Square and decided he needed to clear the air.
+
+She whipped her head around, eyes flashing and confusion in her brows. "No big deal," she said - too gruffly, he thought.
+
+"I just wanted to clear things up. I know how things usually go for us -- "
+
+"I said, it's no big deal."
+
+"Charlie --"
+
+"Lowell, " she said, turning on her heel to face him. "You have been everything to me since Chase died. And you stayed when I left. But your life is here. I'm sorry you regret sleeping together this morning. You said no last night, and I should have respected it. I'm sorry. You need to move on, and that's ok. I get it. It's no big deal." She poked him with her finger as she said each of the last three words.
+
+Lowell had stopped in his tracks when she turned on him. Now, she whirled around and continued walking. Regret sleeping with her? Where did she get that idea. He was trying to apologize for it being so quick, and not at all romantic. Not how he wanted it to happen, anyway. He wanted it to be more than an itch they had to scratch every year. How could he get her to see that he would wait a hundred years, or more, for her?
+
+She finally stopped walking when a dull roar echoed through the streets. As it approached, a wide grin spread over her face.
+
+The Softtail Harley rolled into view and Lowell's heart sank. The bald, tattooed biker astride the bike looked like he should be playing pro football. He wore a flannel shirt, like Lowell, but the sleeves were torn off at the shoulders, and his thermal shirt hugged his biceps. His jeans looked like they were painted on his thighs, and his boots seemed heavy enough to kick down a door. As the biker pulled his bike into a parking spot, Lowell noticed Charlie running to greet him. Running.
+
+Lowell could see the shop windows filling with familiar faces. Just as curious about the newcomer as everyone else in town, his feet started moving toward them. He lowered his gaze to the ground as he walked, but not before he saw Charlie jump into the guy's arms. He swung her around in a circle, and she laughed. No -- giggled!
+
+"Roxie! What are you doing here?" Charlie asked him between laughs. Charlie had mentioned Roxie before, but Lowell though it was a girl.
+
+"Just passing through, Chuckie. Stopped to buy you a coffee. You got decent coffee around here?"
+
+This was gonna get messy, and Lowell didn't want a mess. He never imagined that Charlie was celibate when she was off in her world. Heck, he wasn't either. But their worlds had never crossed over before. She always kept them separate. Yet his feet kept bringing him closer to the pair, like a magnet. Damn, she was beautiful when she smiled. And it was so good to hear her laugh.
+
+Just then, she spotted him coming closer and she climbed down from the bear's arms. Lowell felt like a giraffe next to him, and the scene in front of him cut like a knife. Charlie grabbed Roxie's hand and lead him to the sidewalk where Lowell had stopped.
+
+"Lowell, this is Roxie. Roxie, Lowell."
+
+"Hey, man. How ya doin'?" Roxie smiled as he offered his hand.
+
+"Hey, man," Lowell replied, taking the handshake. "Nice to meet you." Lowell did his best to be civil, but he wanted this bear of a man to die by a thousand cuts. He released Roxie's hand before his emotions poured out of his hand.
+
+Charlie wrapped herself in Roxie's arm and asked, "Who's got the best coffee these days, Lowell?"
+
+"Uh, well, there's Capricorn Coffee over on Spruce, but all the yuppies go there. We got lunch startin' up over at Jake's. I can setup a fresh pot, if you want." Why coudln't he send her away? Inviting the bear to the den was not a good idea.
+
+"Roxie, you've got to try their Mushu Pork. Nothing else like it in the whole state," Charlie gushed.
+
+"Yeah? Sounds good to me."
+
+Lowell grunted something as he turned around and headed back to the bar. This was not going to be a good day.]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>15</ID>
+		<Title><![CDATA[Charlie fills Roxie in on the plan to fake a relationship]]></Title>
+		<Desc><![CDATA[Charlie fills Roxie in on the plan to fake a relationship]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>4</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 11:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>553</WordCount>
+		<LetterCount>2877</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Charlie felt a little guilty as she watched Lowell walk away. They had been hooking up for years, and she always felt bad that she couldn't give Lowell what he deserved. Every year, she fully expected to come home and find him in love with some girl from town. Of course, when she had called Lucy last night and asked her to send Roxie, she and Lowell hadn't seen each other yet. She had no idea that things were going to go the way they did. She could still feel his mouth on her body and his fingers inside her. The explosion when she came was unlike anything she had every experienced before, even with Lowell. Things were definitely different this time. And she didn't know if she wanted them to be, or what to do about it.
+
+"So, you wanna tell me what that was all about," Roxie asked as he spun her around to rest his arms on her shoulders, nose-to-nose.
+
+"Sorry. Maybe I laid it on a little thick, but he needs to see it." Charlie blushed as she spoke. It had been a long time since she and Roxie had been this intimate. Her fast friendship with Lucy had put an abrupt end to any kind of physical relationship she had with Roxie.
+
+"Honey, when you called Lucy last night, we thought you needed help with the car or something. What exactly do you have in mind?"
+
+Charlie turned in the direction of Jake's and started walking. Roxie followed.
+
+"Oh, Rox. I don't know what I was thinking. When I called Lucy, I hadn't seen Lowell yet. I just had this feeling when I came into town that something was changing. He came over last night, like he always does when I get home. But it was different somehow. And we didn't hook up, but then we did. I thought that would be a good thing, but it just made me feel so uneasy. I don't know how to get him to see that I'm not worth waiting for."
+
+"I'm sure he's wondering how to get you to see that you /are/ worth it."
+
+"What?"
+
+"Chuckie, you know that boy is in love with you, right?"
+
+"I know, Rox. I know. I don't know a time when I didn't know that. But I can't let him in. I just can't. Losing him would kill me." Tears formed in her eyes as she thought about life without Lowell. She knew it was silly to take it for granted that he would always be here, but she couldn't pin him down, either, because she couldn't be here all the time. She couldn't face all the places and memories.
+
+"Hon, you can't lose him if you haven't found him."
+
+They were almost to the bar now, and Charlie had to get their stories straight.
+
+"Listen, just stay for the day and pretend to be my boyfriend. You can leave this evening, after dinner."
+
+"What about Lucy? Almost all our good stories include her."
+
+Charlie thought for a second. "No one has to know she's your wife. We can tell them she's your sister."
+
+"I don't see how this will end well for you, Chuckie, but ok. Hey, did you tell Lucy what you were planning?"
+
+"Roxie, it was her idea."]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>16</ID>
+		<Title><![CDATA[Lowell watches as Charlie and Roxie have lunch while Jess gives him some much needed advice.]]></Title>
+		<Desc><![CDATA[Lowell watches as Charlie and Roxie have lunch while Jess gives him some much needed advice.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>4</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 11:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>898</WordCount>
+		<LetterCount>4838</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Lowell was wiping the bar down when he saw them come in. He had started a fresh pot of coffee when he got back, so he poured two cups and sent them over with Rachel when they picked a booth. He also hollered back to Kenny to start an order of potstickers. She always ate potstickers.
+
+"I know I've only been back for a couple of weeks," Jess said into his ear, "but if I didn't know better, I'd say you were jealous."
+
+He snapped his head around. "Jealous? Me? Of what?" His voice was a strange high-pitched sound he'd never heard before.
+
+"Wow. I was only joking, but I'm right, aren't I? Your eyes are shooting daggers, and your eyebrows are almost a uni-brow."
+
+"No, not at all," he squeezed out, clearing his throat and rubbing his forehead.
+
+Jess settled on a stool at the end of the bar. She had graduated with Lowell and Charlie, then gone to culinary school and the city life. Coming back to town after a rough divorce, she and Lowell had become fast friends.
+
+For her, Lowell was someone who knew her before her life truned inside out. For him, Jess was someone who knew him without Charlie. Their different lives had given them each a chance to be unburdened in thier friendship.
+
+Her gaze wandered to Charlie and Roxie in the booth. Roxie was telling her some sort of story, and she hung on every word, laughing as he waved his hands around in some sort of demonstration.
+
+Lowell's gaze followed Jess' and his heart ached. He wanted to have that same effect on Charlie. But their connection seemed stuck in the past. They only shared sadness when they were together.
+
+"Lowell, you've got to tell her how you feel."
+
+The bar was buzzing with customers now, with the lunch rush in full swing. Lowell stepped closer to Jess so he could hear her. "What did you say?"
+
+"I said, you've got to tell her --"
+
+Lowell stepped closer and leaned in. "I still can't hear you."
+
+Jess stretched up in the stool to talk into his ear. "You've got to tell her how you feel."
+
+Their faces were next to each other, but he turned to her ear and replied. "Jess, first, you don't know what you're talking about. And, second, it's none of your business."
+
+Still cheek-to-cheek, she teased him. "Don't be such a guy."
+
+"She's just gonna leave anyway, so it doesn't really matter, does it? Look, what are ya having today?"
+
+Jess gave him her order as Kenny hollered from the back, "Boss, I need more egg rolls from the freezer, but I don't have enough hands! Are you gonna get more hands?"
+
+Lowell rolled his eyes as he backed away from Jess. "Such a drama queen, that kid," chuckling and raising his voice to be heard. "I'll be back with your order soon."
+
+Jess hopped down from the bar stool and followed Lowell to the kitchen. "You are being a complete dunderhead," she said.
+
+Lowell looked back at her. "What are you doing back here? And 'dunderhead'? Who says that?"
+
+Rolling her eyes, Jess continueed to push. "You need to tell Charlie how you feel about her. Why would she stay if she doesn't think she has anything to stay for?"
+
+Lowell looked at Kenny, and he blinked, his eyes big and round, like a cartoon character.
+
+"Don't look at me," Kenny shrugged. "I'm just the baby brother. If she won't stay for me, I don't know what to tell you."
+
+Lowell shook his head, glancing back at Jess. "Look, you really don't know anything about it. I know we were friends back then, but you left."
+
+"So did she."
+
+Lowell took a step toward Jess, forgetting the knife in his hand as he pointed it at her. "I am not going to tell her that I can't breathe when she's not here. I am not going to tell her that I live in black and white for most of the year, seeing only color when she's here. I am not going to tell her that the world stands still from New Year's until Christmas every year. She has to want to stay, becuase I'm not gonna make her."
+
+Jess' eyes had welled up with tears while he spoke. "That is the most beutiful thing I've ever heard. Now go tell her."
+
+"No," Lowell said, moving back to the counter to take his frustration out on the food.
+
+"Lowell, did you ever think that maybe she doesn't have to stay? Maybe you can go with her. You both have these distant memories, but you can make new memories together."
+
+"Jess, you're amazing, but I'm done talking about this," he said, looking up at her from his cutting board. "Now get outta my kitchen."
+
+Jess shook her head and laughed as she turned around and headed back to the bar. But not before needling him one last time. "Lowell, give her a reason to stay."
+
+"Out!" he shouted, dipping his head toward the cutting board again. He suddenly realized Kenny hadn't moved since Jess entered the kitchen.
+
+"What are you looking at, kid?" Lowell growled at Kenny, his cartoon eyes still wide open.
+
+"I'm looking at the dumbest guy in the world," he said as he resumed his work, shaking his head.]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>17</ID>
+		<Title><![CDATA[Charlie is upset that Lowell came to her when he has a girl...]]></Title>
+		<Desc><![CDATA[Charlie is upset that Lowell came to her when he has a girl, then she walks in on him with another girl]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>4</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 12:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>949</WordCount>
+		<LetterCount>5079</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[The food was amazing, as always. The coffee was passable and fresh, as promised. Rachel seemed to provide a bottomless pot and kept refilling their coffee and water. Charlie wasn't surprised when the potstickers arrived. Lowell knew her too well, and the Mushu Pork they ordered was the best in the state, as she claimed.
+
+As they ate, Charlie couldn't help but notice the intimate conversation Lowell was having with a girl at the bar. She looked a little familiar, but Charlie couldn't place her. She was glad he seemed to have other relationships, but then she got a little bothered that he had come over last night anyway, even though he had something going on with this other girl. Hooking up was one thing. But the things he said made her think there wasn't anyone else.
+
+She tried not to focus on it while they ate. Roxie asked about the people in the bar as they paraded through, and Charlie tried to fill him in, as best she could. She knew she should recognize more people than she did - she had grown up with them. But she couldn't help feeling disconnected from the place she called home. Junie had stopped by and said hello, as had half the other people in town that she had gone to school with.
+
+Roxie went to the bathroom, and Charlie wanted to take a minute to thank Lowell for the great lunch, but she didn't see him anywhere.
+
+"Kenny, where's Lowell?" she asked through the service window.
+
+"What am I, his babysitter?" a little sharper than he intended. He put up his hand in peace before continuing. "Sorry. He's probably in the back getting stuff. All my bins are empty up here."
+
+No stranger to the bar, Charlie ducked behind the counter and headed for the store room. She was glad her brother had been able to get a job here, and hoped it would be a good connection for him. Something to help him move forward, and not stuck in the mud.
+
+As she rounded the corner, she heard giggling and almost turned back. But it was too late. Her eyes locked with Lowell's as he was being groped by none other than Junie Watling - the mewling cat who'd been after Lowell since high school. He was pinned up to the wall, and Junie was trying to climb him like a tree, making these little squeaking sounds as her hands ran over his chest.
+
+Charlie made a grunting-gasping sound as she turned on her heels and dashed out of there, steam rising in her ears. She nearly ran into Roxie outside the men's room.
+
+"Come on, we're done here."
+
+"Chuckie, you ok?"
+
+Lowell came racing out of the store room, calling her name, Junie right behind him.
+
+"Lowell, baby. Come back. When are we gonna get together again?"
+
+Lowell turned and faced her. "Junie, how many times do I have to tell you that I'm not into you like that. It's been eight years, and you still don't listen. Please, find someone else."
+
+Roxie heard the exchange, but Charlie was too focused on leaving. She had grabbed Roxie's hand and was dragging him out the front door.
+
+"That conniving, scheming, philandering dung beetle! I can't believe he did that to me. What was I thinking? I went to all this trouble to convince him to move on, only to find out that he's moved on multiple times, and didn't even care that much about me at all!"
+
+Roxie was completely confused. "Chuckie, what are you talking about? What happened?"
+
+"Did you see how he was leading on that girl during lunch? They were cheek-to-cheek in some deep conversation like she was the only girl in the world. Then, I walk in on him making out with Junie in the store room, like we're in high school again! How many other girls are there?"
+
+"But I thought you wanted him to move on."
+
+"That was before --. That was when I thought..." she couldn't find the words. She looked at Roxie, and he looked like he was about to burst out laughing. Her anger heated up again. "That was when I thought he was holding out for me. Now I find out he's just playing everybody. What was I thinking?"
+
+"Do you actually know what happened? You only come here once a year, and you only ever get part of the story. Maybe it isn't what you think."
+
+"Are you siding with him, Jason Rockford? Are you actually taking his side?"
+
+"Come on, Chuck. I am always on your side. I wouldn't be here otherwise. I want you to be happy. I want what's best for you. But sometimes we can't always see what's best for us. Life gets dirty and muddy, and it's hard to see clearly."
+
+"Yeah. Don't I know it. Aaaargh - I can't believe I felt sorry for him."
+
+"Listen, I heard some of what they said back there. Lowell wasn't into her. You've got to give him a chance."
+
+"What, a chance to get in my pants again? A chance to try to convince me to stay? I'm not staying to watch him fool around with half the town."
+
+Roxie took her hand and stroked it with his thumb in a calming way. "Come on, Chuckie. Let's get on the bike and hit some open road for a little bit. Let you cool off."
+
+"Yeah, I need some space. Let's go."
+
+As they got on the bike and headed out of town, they didn't see that Lowell had followed. And they didn't see him sink to the ground as they faded away down the road.]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>18</ID>
+		<Title><![CDATA[Lowell confronts Junie angrily, Jess calms her down]]></Title>
+		<Desc><![CDATA[Lowell confronts Junie angrily, Jess calms her down]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>5</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 12:15:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>698</WordCount>
+		<LetterCount>3744</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Lowell sank to the ground as he watched Charlie ride off with Roxie. His feet just wouldn't take him any farther. He didn't know what had upset Charlie so much, but he hated when she was angry with him.
+
+Once he collected himself, he rose to his feet again and stormed back into the almost empty bar. Jess still sat on her stool at the bar. She usually hung around in the early afternoon hours, since she wasn't working yet. Rachel was cleaning tables and loading dishes into the buspans. Junie had been watching him from the window and was backing away when he came in. All eyes were on him. He glowered at Junie.
+
+"Junie, please stop harrassing me. I have told you repeatedly that nothing is going to happen, and I'm not going to change my mind." He really tried to stay calm, but he was afraid his voice sounded more like a growl.
+
+"But, I --"
+
+"Junie," still growling, and still trying to keep his cool. "Nothing is going to happen. I am not into you. What you've been doing is embarrasing for you, and harrassing me."
+
+"Then why have you kept me around so long? If it's really that much of a bother --"
+
+Lowell closed his eyes and took a deep breath as her voice faded away. "You know, Junie. I felt sorry for you. You are good to the customers, you've been here a long time, and I needed the help. But I can always find other help." His words clipped short as he continued. "Should I do that, or can you control yourself?"
+
+She was shaking and Lowell felt a little guilty. He knew his quiet anger was intimidating to most people, but it was all he could muster at this point. Jess rose from her stool and came to Junie's side, eyes still on Lowell.
+
+Junie's voice quivered. "Lowell, I -- I really thought you liked having me around. But if you don't want me here, I can leave."
+
+"Can you control yourself, Junie?"
+
+"Uh, yes, I think so."
+
+"Good. Then you have one last chance to be my employee, and nothing more. We aren't even friends, Junie. Do you understand that?"
+
+Tears streamed down her face as she answered. "Yes, Lowell. We aren't even friends. Thank you."
+
+Lowell looked at Rachel as Junie sank into a chair. "Rachel, you are my witness, and you are in charge here in the front of the house. If there is anymore harrassment, you may fire her. I'm tired of avoiding people in my own place. Got it?" Rachel nodded. "Good. I'm going out, and I'll be back before the dinner rush."
+
+He took two steps, then stopped. Looking at the women, he hesitated. "I really want to yell right now, but I don't think there's anything else to say."
+
+"No, boss," Rachel said. "I think you've said plenty."
+
+He headed upstairs and overheard Jess and Rachel consoling Junie.
+
+"What did you think was gonna happen, Junie? That he was gonna suddenly decide to screw you, and that'd be it?" Rachel snapped.
+
+"Rachel, that isn't very nice. He really hurt her feelings," Jess said, trying to be neutral.
+
+"Jess, she's been pulling the same act for as long as I've known her. I can't believe he put up with it as long as he did. I mean, if no means no when we say it, why shouldn't it for him? Why does he have to be the bad guy?"
+
+"But, I love him, Rachel," Junie squeaked. "I have wanted him since high school, and I just don't know how to quit."
+
+"Oh Junie, you don't need that kind of love. You need someone who can love you back. It doesn't seem like Lowell does," said Jess. "Take it from someone who knows. You deserve to have someone who loves you back." Jess reached out to Junie and hugged her.
+
+Junie sobbed. "What am I gonna do?"
+
+Rachel rolled her eyes and scoffed as she turned back to her work. Jess patted Junie's back and said, "You're going to pick yourself up, be the best employee ever, and start making new friends that aren't Lowell."]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>19</ID>
+		<Title><![CDATA[Charlie and Roxie have it out at the cemetery...]]></Title>
+		<Desc><![CDATA[Charlie and Roxie have it out at the cemetery and Charlie sorts through her feelings]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>5</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 12:30:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>738</WordCount>
+		<LetterCount>3848</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[The wind cooled Charlie's face. Riding was so freeing, and she could always think clearly on the back of a motorcycle. So what if Lowell was with someone else. So what if he had a girlfriend. It explained why he stopped her last night, but it didn't explain this morning. What they had was casual, but she would be damned if she was going to be the other woman.
+
+Well, that doesn't make sense either. If what they have is casual, then there will be others. She will be the other woman. It's not up to her to decide that he has something special with someone else. Right? Gah - this was all so confusing.
+
+The bike slowed and Roxie pulled over to the side of the road.
+
+"You've got to tell me where to steer this thing. I don't know where you want to go," he said.
+
+"Can't we just keep riding?" she asked hopefully.
+
+Roxie turned around in his seat. "Hon, I'd love to, but you keep muttering to yourself back there, and I'm afraid you're gonna jump off. You are not alright, and I want to talk with you. Should we do it here, or do you want to go somewhere?"
+
+"The cemetery. I'll drive" she said, firmly. She needed to talk to Chase.
+
+She climbed off the bike so Roxie could get off without kicking her. Then, she got back on, and he followed. She started up the bike and turned around to head back towards town. The cemetery was on the edge of town, so she wouldn't risk running into Lowell, or anyone else she knew.
+
+She pulled into the driveway of the cemetery and parked the bike near the section where Chase was buried. They got off the bike and walked the the site.
+
+"So, this is it, huh?" Roxie said, looking at the headstone.
+
+"This is it," confirmed Charlie, moving to the large tree near the gravesite. She sank down to the ground and leaned against the tree.
+
+Roxie crouched down and fingered the key chains. "You come here a lot, I guess."
+
+"Yeah, every year. I get little trinkets for him while I'm gone, and I leave them when I come back."
+
+Roxie rose to his feet and joined her under the tree. He took her hand and laced his fingers with hers. "Chuckie, I don't know what to say. You know this isn't healthy, right? Running around like you don't have a home, or people who miss you."
+
+"I am tired of being on the road all the time, but I like having connections with people that didn't know Chase. I can feel everyone's eyes on me here. Like they're waiting for me to do something or be somebody. But I don't know who I am without him when I'm here. Out there, it's easier."
+
+"Yeah, I get that. But you have to find balance. You have to deal with this grief. And you have to let your family grieve with you, too. They lost your brother, too, you know."
+
+"Yeah, I know. I'm getting that. But I don't know how to fill the void he left."
+
+"You mean, like, in your family?"
+
+"Yeah. The role he played in the house and with my parents. I can't fill that."
+
+"Honey, what ever made you think you had to?"
+
+"Well, I guess I -- I don't know. I guess I thought because we were twins that I had to somehow make up for him being gone."
+
+Roxie smiled. "No offense, doll, but that's just dumb. You can't make up for a whole person being gone. You have to just be you. Your family will find a way to get along without him. But to lose you, too? I don't know many families that could handle that."
+
+Charlie understood what he was saying, but she didn't really see it. Her parents and Kenny seemed to be getting along just fine without her. Roxie continued, "But the big difference I see is that Chase was lost through fate. You chose to be lost."
+
+Just then an old truck rolled up, and Lowell parked next to the bike. Roxie kissed the back of her hand and stood up, letting her hand drop to her lap.
+
+"Looks like my turn is over. Text me if you need me; I won't be far." Charlie nodded and he walked away, nodding at Lowell as they passed each other.]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>20</ID>
+		<Title><![CDATA[Lowell catches up with them at the cemetery and he and Charlie talk]]></Title>
+		<Desc><![CDATA[Lowell catches up with them at the cemetery and he and Charlie talk]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>5</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 13:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1671</WordCount>
+		<LetterCount>8848</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[Lowell saw the motorcycle at the cemetery entrance and felt a jolt of relief. He was afraid she had gone. If she had, this would be the first time since Chase died that she wasn't here for their birthday. At least he'd get a chance to try to talk to her, to explain everything. He didn't even really know what he would be explaining. All he knew was that she was pissed. Hopefully he could get her to talk, and she wouldn't shut down again.
+
+Ever since they were kids, Lowell was the only one who knew her almost as well as Chase. The three of them had sort of a secret language. When his parents died when they were twelve, Chase and Charlie knew exactly what he needed. He never had to ask for anything - never had to say a word. When he was lonely, they held his hand. When he was hungry, they shared their food. When he was sad, they cheered him up.
+
+And it went the other way, too. Once, in elementary school, before Lowell's parents died, the Meadows' family dog, Ike, had been hit by a car. That dog followed them like he was on a string. Suddenly Ike was gone, and they all missed him, but Charlie missed him the most. So Lowell gave her his stuffed dog on a string to drag around, so she wouldn't miss Ike so much. When Chase broke him arm falling out of a tree in middle school, all three of them wore slings.
+
+Losing Chase senior year almost broke him. Charlie had ridden home from the party with her parents that night. They said she had a headache, and that's why she was leaving early. Lowell knew they were fibbing, but it didn't seem important at the time, so he never pushed on why she left early. Otherwise, she would have been in the car with them. He thought that was part of her guilt - the fact that she normally would have been with them. Only that time, she wasn't.
+
+Losing Charlie after graduation did break him. Especially since they had slept together the first time right before graduation day. He hadn't realized that he loved her until that day. It was when he realized that she was the first person he wanted to talk to everday, and the last person he wanted to see every night. She had visited him in the hospital every day, but they hardly spoke. There was no need.
+
+But maybe now there was.
+
+She was sitting under the tree next to Chase's grave. Lowell saw Roxie strolling away, towards his motorcycle, and secretly thanked him with a nod for giving them space. He hardly even noticed the engine turn over and the motorcyle drive away because all he saw was her. She looked so small under the tree with her knees pulled up to her chest and tears streaming down her face. He sat down next to her and rested a minute before he spoke.
+
+"When you left the first time, after graduation, I was lost. Like you, I lost Chase overnight, and then I was stuck there in the hospital. Betsy visited as much as she could, but Grandpa needed her at the bar. And when you came, the whole room lit up, even though you were lost, too. I knew that as long as I had you, I could handle missing Chase."
+
+She blinked tears as she looked at him, her chin quivering more.
+
+"I didn't even get to go to the funeral. I didn't get to say goodbye." Lowell paused to swallow the knot in his throat. "But then you left, and I had to learn to navigate life on my own. And it wasn't all that bad, but it wasn't all that great, either. I thought about both of you every day, but what hurt the most was that you were choosing to stay away."
+
+She started to shake her head to argue with him, but he put up his hand to stop her.
+
+"Even that I learned to deal with, because I understood. If I could have left, I would have. Everywhere I went I found memories of both of you. But after awhile, I started to find joy in those memories, instead of sadness, and I made new memories."
+
+"But that's what scares me, Lowell. The new memories."
+
+"How is that scary?"
+
+"Because you've made new memories without me. And we can't even talk anymore."
+
+"But we're talking right now."
+
+"No," she sighed with exasperation. "I mean like we used to. We never had to say anything, we just always knew what the other one needed. But somehow things are different now. I don't know what you need or want anymore. Hell, I don't even know what I need or want anymore. I feel like I've been running from the memories for so long that I lost them in the dust." More tears lept from her eyes.
+
+He put his arm around her shoulders and she rested her head on his chest. With his other hand, he wiped the tears from her cheeks.
+
+"But if you keep running, you won't ever figure out what you need or want."
+
+"I know, and I think I'm ready to stop running. I'm ready to find the memories again. I want them to make me laugh, instead of cry."
+
+Lowell's heart was pounding in his chest. He leaned forward to look at her face, almost too excited to hope. "Are you saying what I think you're saying? Are you planning on staying?"
+
+She hesitated before she said, "I think I'm gonna just not plan to leave yet."
+
+Lowell couldn't help himself. He kissed her, full on the lips. As he held her face in his hands and kissed her, he felt like he was finally arriving home, even though he never left. And she kissed him back, her lips parting and her tongue darting out to find his. There was so much to talk about still, but this was all they needed right now.
+
+Her hands settled on his chest, and they leaned into each other, both finding peace in the kiss. Their mouths stayed together for what seemed like an eternity, and Lowell felt fresh tears on her cheeks.
+
+They finally broke apart, breathless, and as he leaned back against the tree, she settled her head on his chest again.
+
+After a moment, Lowell took a chance and broke the silence. "Can I ask why you were so mad when you left Jake's?"
+
+She chuckled a little before she answered. "Oh, that. Well, I was mad that you would come to my bedroom in the middle of the night, and make love to me like you did this morning, and then hooked up with two other women the same day. But it's not a big deal. We aren't a thing, and you moved on. It's fine."
+
+"Wait, what?" Lowell sat upright. "Hooked up with two other women? What are you talking about?"
+
+"Well, while Roxie and I were having lunch, you were having a very intimate conversation with that girl at the bar."
+
+"Jess? Jeez, that's not even a thing. I couldn't hear her with all the noise at the bar, so I got in close to hear her better. We are not a thing."
+
+"Wait, that was Jess? No way! I heard she moved to Columbia."
+
+"Yeah, she did." Lowell hesitated because he didn't want to tell her secrets. "She did, but she moved back a few weeks ago. You should have a drink with her. I'm sure she'd love to catch up with you."
+
+Charlie laughed. "Ok, but what about Junie?"
+
+He rolled his eyes. "Come on. You know Junie's been trying to get into my bed since high school."
+
+"Well, yeah, but you mean you never took advantage of that?"
+
+"No."
+
+"So, wait. Are you telling me that I'm the only one you've been with all this time?"
+
+"Well, no, but none of them made it to a second time."
+
+"Why you dog, you!" Charlie laughed /* , mostly at herself for thinking the worst about him.*/
+
+Lowell was feeling defensive at her judgement. "Ok, but what about you, bringing that bear of a man into my town. All these years you could have brought someone, and you wait until now, and you bring him?"
+
+Charlie had doubled over with laughter, but Lowell didn't see the joke. "What's so funny?" he asked, starting to smile himself.
+
+Finally catching her breath, Charlie explained. "I did date Roxie, a few years ago. But he met Lucy, and they fell in love. They got married over two years ago, and we've all been best friends since. Never like we were, but the closest thing I have to a family outside of Heartsburg." She was starting to sober up, but continued her explanation. "After I visited Chase last night, I started to get the feeling that something was different this time. So, I called Lucy and asked if I could borrow her husband for a day or two. She suggested that I imply that he was my boyfriend, and the notion kinda stuck. He didn't even know what he was in for when he got here."
+
+She had been studying her hands in her lap while she talked, and now she lifted her eyes to his face to see his reaction.
+
+"Wait," Lowell said, his brows knitted together in confusion. "So, you aren't in a relationship either?"
+
+"No."
+
+Thrilled at his luck, he slapped his thigh. "Well, there we go! Half the battle is already won! Now we just need to figure out how to talk again, and we'll be back to old us in no time," he said with a grin.
+
+She smiled weakly in agreement and settled back against the tree.
+
+"So, what do we do now?"
+
+Lowell thought for a moment. "Now? Well, I think we should say 'Au revoir' to Chase, then head back into town. We'll come by and see him again tomorrow, if you want."]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>21</ID>
+		<Title><![CDATA[Charlie has a heart to heart with Chase, and Roxie comes to pick her up]]></Title>
+		<Desc><![CDATA[Charlie has a heart to heart with Chase, and Roxie comes to pick her up]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>5</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 13:30:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>22</ID>
+		<Title><![CDATA[Charlie introduces Lowell to Roxie and they have a snack before Roxie heads home]]></Title>
+		<Desc><![CDATA[Charlie introduces Lowell to Roxie and they have a snack before Roxie heads home]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>5</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 14:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>23</ID>
+		<Title><![CDATA[Charlie goes home and digs through her things...]]></Title>
+		<Desc><![CDATA[Charlie goes home and digs through her things, pulling out mementos from her high school years; memories have new meaning]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>6</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 16:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>24</ID>
+		<Title><![CDATA[Lowell confides in Aunt Betsy and she comforts him]]></Title>
+		<Desc><![CDATA[After the dinner rush, Lowell confides in Aunt Betsy and she comforts him, advising him to give Charlie time]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>6</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 19:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>25</ID>
+		<Title><![CDATA[Charlie heads to the bar, Lowell is not there...]]></Title>
+		<Desc><![CDATA[Charlie heads to the bar, but Lowell is not there. She has a talk with Aunt Betsy and Jess. Just for something to do, she starts working the bar and has to get something from the back. Lowell comes back just as she is knocking something off the top shelves, and he "saves" her, sharing an intimate moment.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>6</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-17 21:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>26</ID>
+		<Title><![CDATA[The next day, Lowell sees her around town...]]></Title>
+		<Desc><![CDATA[The next day, Lowell sees her around town. At the end of the scene, he hears people talking about her, and that she isn't even staying for Christmas this year]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>6</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-18 10:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>27</ID>
+		<Title><![CDATA[Charlie putters around town hearing gossip]]></Title>
+		<Desc><![CDATA[While puttering around town, Charlie sees Lowell and hears people talking about him and Junie]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>6</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-18 10:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>28</ID>
+		<Title><![CDATA[Charlie sees Lowell at the bar]]></Title>
+		<Desc><![CDATA[Charlie goes to see Lowell before the bar opens and they have another intimate moment]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>7</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-19 08:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>29</ID>
+		<Title><![CDATA[Lowell sets boundaries with Charlie]]></Title>
+		<Desc><![CDATA[Afterwards, Lowell draws some boundaries with Charlie; he wants to give her space to decide what she will do, but he wants to be with her.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>7</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-19 08:30:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>30</ID>
+		<Title><![CDATA[Charlie has a heartfelt talk with her mom...]]></Title>
+		<Desc><![CDATA[Charlie finally has a heartfelt talk with her mom about why she has stayed gone all these years; mom gives her advice that helps her sort things out.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>7</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-19 09:30:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>31</ID>
+		<Title><![CDATA[Lowell has dinner with the Meadows']]></Title>
+		<Desc><![CDATA[Due to bad weather, Lowell gives Kenny a ride home and Bev invites him for dinner, since the bar is closed for dinner on Mondays. There is tension in the air between Charlie and Lowell; Joe gives Lowell some advice.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>7</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-19 15:30:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>32</ID>
+		<Title><![CDATA[Charlie and Lowell make love ***]]></Title>
+		<Desc><![CDATA[Charlie and Lowell make love - this time they both mean it]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>7</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-19 19:30:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>33</ID>
+		<Title><![CDATA[The next morning...]]></Title>
+		<Desc><![CDATA[After staying over, Lowell leaves in a heartfelt goodbye, which leaves Charlie confused and frustrated. She packs her things to leave.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>8</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-20 08:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>34</ID>
+		<Title><![CDATA[Kenny convinces Charlie to stay through Christmas]]></Title>
+		<Desc><![CDATA[Kenny walks in on Charlie packing up to leave and gives here a piece of his mind. He is not happy that she ever left, not happy that she keeps leaving, and wants her to stay so the family can heal together. Her leaving every year is like an open wound that keeps bleeding. They can't heal if they aren't together. He convinces her to stay by reminding her that there are only 3 days left until Christmas, then she can do whatever she wants.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>8</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-20 08:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>35</ID>
+		<Title><![CDATA[Lowell coaches himself]]></Title>
+		<Desc><![CDATA[Lowell is getting ready to open the bar again, and starts talking to himself about how she wasn't ready. Jess comes in and overhears him talking and starts advising Lowell.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>8</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-20 08:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>36</ID>
+		<Title><![CDATA[Lowell gets advice from Aunt Betsy]]></Title>
+		<Desc><![CDATA[Lowell goes to see Aunt Betsy and she helps him make a plan for wooing Charlie, and treating her like he should have from the start.]]></Desc>
+		<Fields>
+			<Field_UseExporterTags>0</Field_UseExporterTags>
+		</Fields>
+
+		<BelongsToChID>8</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>2022-12-20 08:00:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>37</ID>
+		<Title><![CDATA[New Scene 5]]></Title>
+		<BelongsToChID>8</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+		<SceneContent><![CDATA[]]></SceneContent>
+	</SCENE>
+
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Series Titles]]></Title>
+		<Unused>-1</Unused>
+		<SortOrder>1</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>1</Type>
+		<ChapterType>1</ChapterType>
+		<Scenes>
+			<ScID>1</ScID>
+			<ScID>2</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>2</ID>
+		<Title><![CDATA[Chapter 1]]></Title>
+		<Desc><![CDATA[10:00 pm Charlie arrives back in her hometown, stopping at her brother's grave on the way home. / 10:00 pm Lowell sees Charlie's arrival and gets ready to go see her / 11:00 pm Charlie gets settled in her room and receives a visitor / 11:30 pm Things get hot between them, but Lowell cools them off / 12:00 am Charlie is hurt that he cooled it, but they eat and talk and cuddle]]></Desc>
+		<SortOrder>2</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>3</ScID>
+			<ScID>4</ScID>
+			<ScID>5</ScID>
+			<ScID>6</ScID>
+			<ScID>7</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>3</ID>
+		<Title><![CDATA[Chapter 2]]></Title>
+		<Desc><![CDATA[5:00 am Charlie wakes and is happy with Lowell, and wakes him with a kiss / 5:30 am Lowell considers what just happened as he rides his bike back home in the early morning hours / 8:30 am Charlie wakes again, alone, and greets her family in the kitchen / 9:30 am Charlie gives kenny a ride into town for work and they reconnect / 10:00 am Lowell gets the bar ready, and finds out Charlie is in town]]></Desc>
+		<SortOrder>3</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>8</ScID>
+			<ScID>9</ScID>
+			<ScID>10</ScID>
+			<ScID>11</ScID>
+			<ScID>12</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>4</ID>
+		<Title><![CDATA[Chapter 3]]></Title>
+		<Desc><![CDATA[10:00 am Charlie sees Aunt Betsy, and she fills Charlie in on some town gossip / 10:30 am Lowell catches up with Charlie and is interrupted by Roxie's arrival / 11:00 am Charlie fills Roxie in on the plan to fake a relationship / 11:00 am Lowell watches as Charlie and Roxie have lunch while Jess gives him some much needed advice / 12:00 pm Charlie is upset that Lowell came to her when he has a girl, then she walks in on him with another girl]]></Desc>
+		<SortOrder>4</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>13</ScID>
+			<ScID>14</ScID>
+			<ScID>15</ScID>
+			<ScID>16</ScID>
+			<ScID>17</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>5</ID>
+		<Title><![CDATA[Chapter 4]]></Title>
+		<Desc><![CDATA[12:15 pm Lowell confronts Junie angrily, Jess calms her down. / 12:30 pm Charlie and Rocie have it out at the cemetery and Charlie sorts through her feelings. / 1:00 pm Lowell catches up with them at the cemetery and he and Charlie talk / 1:30 pm Charlie has a heart to heart with Chase, and Roxie comes to pick her up / 2:00 pm Charlie introduces Lowell to Roxie and they have a snack before Roxie heads home]]></Desc>
+		<SortOrder>5</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>18</ScID>
+			<ScID>19</ScID>
+			<ScID>20</ScID>
+			<ScID>21</ScID>
+			<ScID>22</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>6</ID>
+		<Title><![CDATA[Chapter 5]]></Title>
+		<Desc><![CDATA[4:00 pm Charlie goes home and digs through her things, pulling out mementos from high school; memories have new meaning. / 7:00 pm After the dinner rush, Lowell confides in Aunt Betsy and she comforts him, advising him to give Charlie time / 9:00 pm Charlie heads to the bar, but Lowell is not there. She has a talk with Aunt Betsy and Jess. Just for something to do, she starts working the bar and has to get something from the back. Lowell comes back just as she is knocking something off the top shelves, and he "saves" her, sharing an intimate moment. / 10:00 am The next day, Lowell sees her around town. At the end of the scene, he hears people talking about her, and that she isn't even staying for Christmas this year. / 10:00 am While puttering around town, Charlie sees Lowell and hears people talking about him and Junie.]]></Desc>
+		<SortOrder>6</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>23</ScID>
+			<ScID>24</ScID>
+			<ScID>25</ScID>
+			<ScID>26</ScID>
+			<ScID>27</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>7</ID>
+		<Title><![CDATA[Chapter 6]]></Title>
+		<Desc><![CDATA[8:00 am Charlie goes to see Lowell before the bar opens and they have another intimate moment. / 8:30 am Afterwards, Lowell draws some boundaries with Charlie; he wants to give her space to decide what she will do, but he wants to be with her. / 9:30 am Charlie finally has a heartfelt talk with her mom about why she has stayed gone all these years; mom gives her advice that helps her sort things out. / 3:30 pm Due to bad weather, Lowell gives Kenny a ride home and Bev invites him for dinner, since the bar is closed for dinner on Mondays. There is tension in the air between Charlie and Lowell; Joe gives Lowell some advice. / 7:30 pm Charlie and Lowell make love - this time they bothe mean it.]]></Desc>
+		<SortOrder>7</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>28</ScID>
+			<ScID>29</ScID>
+			<ScID>30</ScID>
+			<ScID>31</ScID>
+			<ScID>32</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>8</ID>
+		<Title><![CDATA[Chapter 7]]></Title>
+		<Desc><![CDATA[After staying over, Lowell leaves in a heartfelt goodbye, which leaves Charlie confused and frustrated. She packs her things to leave. / Kenny walks in on Charlie packing up to leave and gives her a piece of his mind. He is not happy that she ever left, not happy that she keeps leaving, and wants her to stay so the family can heal together. her leaving every year is like an open wound that keeps bleeding. The can't heal if they aren't together. He convinces her to stay by reminding her that there are only a few days left until Christmas, then she can do whatever she wants. / Lowell is getting ready to open the bar again, and starts talking to himself about how she wasn't ready. Jess comes in and overhears him talking and starts advising Lowell. / Lowell goes to see Aunt Betsy and she helps him make a plan for wooing Charlie, and treating her like he should have from the start.]]></Desc>
+		<SortOrder>8</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+		<Scenes>
+			<ScID>33</ScID>
+			<ScID>34</ScID>
+			<ScID>35</ScID>
+			<ScID>36</ScID>
+			<ScID>37</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>9</ID>
+		<Title><![CDATA[Chapter 8]]></Title>
+		<Desc><![CDATA[Junie makes another attempt at Lowell, but knows that things are different for him. Charlie sees this, and decides not to pursue things with Lowell because she will only mess things up for him. Lowell firmly gives Junie the heave-ho once more, and she finally concedes. He arrives for his date with Charlie with flowers in hand, but she is not so willing anymore.]]></Desc>
+		<SortOrder>9</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>10</ID>
+		<Title><![CDATA[Chapter 9]]></Title>
+		<Desc><![CDATA[Lowell is tired of trying to convince Charlie to stay. Charlie is tired of everyone trying to get her to stay. She has decided to leave, even though it isn't Christmas yet. She call Roxie and tells him she's leaving Heartsburl and headed his way.]]></Desc>
+		<SortOrder>10</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>11</ID>
+		<Title><![CDATA[Chapter 10]]></Title>
+		<Desc><![CDATA[Now at Roxie's, Charlie tries to get back into her old life, but things ar enot working out the way she thinks they should. Unbeknownst to her, Roxie called Lowell and told him what was happening. While Lowell has given up, Roxie convinces him to give it another try, and come to his place. Lowell confonts Charlie, and she agrees to come back for Christmas.]]></Desc>
+		<SortOrder>11</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>12</ID>
+		<Title><![CDATA[Chapter 11]]></Title>
+		<Desc><![CDATA[Christmas Eve at Jake's has been turned into a birthday party for Charlie, sponsored by her parents. Everyone is there - parents, Kenny, Lowell, Roxie & Lucy, Jess, Junie. Lowell decides to propose, since that may be the only way to get Charlie to stay and commit, and to convince her that he means business.]]></Desc>
+		<SortOrder>12</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>13</ID>
+		<Title><![CDATA[Chapter 12]]></Title>
+		<Desc><![CDATA[Faced, in public, with "the question", Charlie panics and starts to leave again. This time, Junie and Jess intervene and tell her she's being an indiot. Roxie and Lucy console Lowell inside the bar, and convince him to follow. He tells her he's not following her anymore and she needs to decide if she's going to stay with him or not. She decides yes.]]></Desc>
+		<SortOrder>13</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>14</ID>
+		<Title><![CDATA[Chapter 13]]></Title>
+		<Desc><![CDATA[It's been a year since the proposal, and they are getting married on New Year's Eve, deciding they wanted that date to mean something more than the loss of their brother. Everyone chips in and nthey celebrate their wedding night in his apartment.]]></Desc>
+		<SortOrder>14</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>0</Field_UseLatexChapterTitle>
+		</Fields>
+
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>15</ID>
+		<Title><![CDATA[Chapter 14]]></Title>
+		<SortOrder>15</SortOrder>
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>16</ID>
+		<Title><![CDATA[Chapter 15]]></Title>
+		<SortOrder>16</SortOrder>
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2024-10-12</Date>
+		<Count>13084</Count>
+		<TotalCount>13348</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER7>
